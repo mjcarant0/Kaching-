@@ -1,0 +1,4511 @@
+fileFormatVersion: 2
+guid: 48ba44cdfbcf1fa4f945de6e97695339
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6122534180935383808
+    second: SavingsChapter1_0
+  - first:
+      213: 7569723205681890806
+    second: SavingsChapter1_1
+  - first:
+      213: 7431366419226261857
+    second: SavingsChapter1_2
+  - first:
+      213: -7426924382268820398
+    second: SavingsChapter1_3
+  - first:
+      213: 2126902468024551727
+    second: SavingsChapter1_4
+  - first:
+      213: 34161226823993601
+    second: SavingsChapter1_5
+  - first:
+      213: 5455338557267972807
+    second: SavingsChapter1_6
+  - first:
+      213: 4663205468709850335
+    second: SavingsChapter1_7
+  - first:
+      213: 3146973586246668664
+    second: SavingsChapter1_8
+  - first:
+      213: -5498147901224903529
+    second: SavingsChapter1_9
+  - first:
+      213: -7405866456374914473
+    second: SavingsChapter1_10
+  - first:
+      213: -8074749283610325171
+    second: SavingsChapter1_11
+  - first:
+      213: 772373820356024523
+    second: SavingsChapter1_12
+  - first:
+      213: -8712866605858496076
+    second: SavingsChapter1_13
+  - first:
+      213: -2227377584503283358
+    second: SavingsChapter1_14
+  - first:
+      213: -4692628300878464712
+    second: SavingsChapter1_15
+  - first:
+      213: -3555531597048530249
+    second: SavingsChapter1_16
+  - first:
+      213: -6479145611724351135
+    second: SavingsChapter1_17
+  - first:
+      213: 2811005687072944044
+    second: SavingsChapter1_18
+  - first:
+      213: 6092923479395468545
+    second: SavingsChapter1_19
+  - first:
+      213: 2947207030969764410
+    second: SavingsChapter1_20
+  - first:
+      213: -1878436760917807833
+    second: SavingsChapter1_21
+  - first:
+      213: 524502375048284747
+    second: SavingsChapter1_22
+  - first:
+      213: 2186977513719465208
+    second: SavingsChapter1_23
+  - first:
+      213: -2328325882201767159
+    second: SavingsChapter1_24
+  - first:
+      213: 972213533898772382
+    second: SavingsChapter1_25
+  - first:
+      213: 7633539309110698710
+    second: SavingsChapter1_26
+  - first:
+      213: 1779750604596907026
+    second: SavingsChapter1_27
+  - first:
+      213: -4784976132814097577
+    second: SavingsChapter1_28
+  - first:
+      213: 4710416700568364719
+    second: SavingsChapter1_29
+  - first:
+      213: -959152151101575967
+    second: SavingsChapter1_30
+  - first:
+      213: 657813625668241562
+    second: SavingsChapter1_31
+  - first:
+      213: -8441408886546464955
+    second: SavingsChapter1_32
+  - first:
+      213: 4028687511443609582
+    second: SavingsChapter1_33
+  - first:
+      213: -4650722433644272424
+    second: SavingsChapter1_34
+  - first:
+      213: -3048801284355603707
+    second: SavingsChapter1_35
+  - first:
+      213: -4119047012200423305
+    second: SavingsChapter1_36
+  - first:
+      213: 8188506384380794004
+    second: SavingsChapter1_37
+  - first:
+      213: -5398585107052219597
+    second: SavingsChapter1_38
+  - first:
+      213: -788674462285897492
+    second: SavingsChapter1_39
+  - first:
+      213: -709491014707191175
+    second: SavingsChapter1_40
+  - first:
+      213: -6613092899286076712
+    second: SavingsChapter1_41
+  - first:
+      213: 6157592190889693321
+    second: SavingsChapter1_42
+  - first:
+      213: -5927117122183208159
+    second: SavingsChapter1_43
+  - first:
+      213: 2439882069880300287
+    second: SavingsChapter1_44
+  - first:
+      213: -8279113242518936559
+    second: SavingsChapter1_45
+  - first:
+      213: 3645563085531479080
+    second: SavingsChapter1_46
+  - first:
+      213: 5180844686560861431
+    second: SavingsChapter1_47
+  - first:
+      213: -3511075374547686530
+    second: SavingsChapter1_48
+  - first:
+      213: 2109924633530377133
+    second: SavingsChapter1_49
+  - first:
+      213: 8637695036608701406
+    second: SavingsChapter1_50
+  - first:
+      213: -5698408632690581882
+    second: SavingsChapter1_51
+  - first:
+      213: 6881719623523170826
+    second: SavingsChapter1_52
+  - first:
+      213: 257043530695160122
+    second: SavingsChapter1_53
+  - first:
+      213: 4628618045264067654
+    second: SavingsChapter1_54
+  - first:
+      213: 2603773354357128508
+    second: SavingsChapter1_55
+  - first:
+      213: 8375404176587014314
+    second: SavingsChapter1_56
+  - first:
+      213: -6791719312088885708
+    second: SavingsChapter1_57
+  - first:
+      213: -8896296070259073517
+    second: SavingsChapter1_58
+  - first:
+      213: 3016898607701741366
+    second: SavingsChapter1_59
+  - first:
+      213: -760721744745953645
+    second: SavingsChapter1_60
+  - first:
+      213: 2517674115515553482
+    second: SavingsChapter1_61
+  - first:
+      213: -8001379615454034150
+    second: SavingsChapter1_62
+  - first:
+      213: -7318454325427618428
+    second: SavingsChapter1_63
+  - first:
+      213: -635295419497642460
+    second: SavingsChapter1_64
+  - first:
+      213: 3598067419161925487
+    second: SavingsChapter1_65
+  - first:
+      213: -8441645524648659609
+    second: SavingsChapter1_66
+  - first:
+      213: -1182879815821691367
+    second: SavingsChapter1_67
+  - first:
+      213: -5005259364311865549
+    second: SavingsChapter1_68
+  - first:
+      213: -484953048188296694
+    second: SavingsChapter1_69
+  - first:
+      213: -6740149511979143807
+    second: SavingsChapter1_70
+  - first:
+      213: 6306469080949106194
+    second: SavingsChapter1_71
+  - first:
+      213: -7764875497165896370
+    second: SavingsChapter1_72
+  - first:
+      213: 8111422687353416081
+    second: SavingsChapter1_73
+  - first:
+      213: 8127837168863680414
+    second: SavingsChapter1_74
+  - first:
+      213: 7068886715884209607
+    second: SavingsChapter1_75
+  - first:
+      213: -7130254132354524229
+    second: SavingsChapter1_76
+  - first:
+      213: -2361697118121980859
+    second: SavingsChapter1_77
+  - first:
+      213: -7574157313257148106
+    second: SavingsChapter1_78
+  - first:
+      213: 199454759080654268
+    second: SavingsChapter1_79
+  - first:
+      213: 5595418927091144967
+    second: SavingsChapter1_80
+  - first:
+      213: 6555946749790912612
+    second: SavingsChapter1_81
+  - first:
+      213: 4430651401659293293
+    second: SavingsChapter1_82
+  - first:
+      213: -7948599683398591607
+    second: SavingsChapter1_83
+  - first:
+      213: 2618223227971169808
+    second: SavingsChapter1_84
+  - first:
+      213: 2630133961547648326
+    second: SavingsChapter1_85
+  - first:
+      213: -236799409636309517
+    second: SavingsChapter1_86
+  - first:
+      213: 2301431247330494610
+    second: SavingsChapter1_87
+  - first:
+      213: -2472196776169705131
+    second: SavingsChapter1_88
+  - first:
+      213: 1365215280586914353
+    second: SavingsChapter1_89
+  - first:
+      213: 2902575546672798405
+    second: SavingsChapter1_90
+  - first:
+      213: 3088955676653559532
+    second: SavingsChapter1_91
+  - first:
+      213: 4205336805029585518
+    second: SavingsChapter1_92
+  - first:
+      213: -4474300094507027734
+    second: SavingsChapter1_93
+  - first:
+      213: 673884326592842532
+    second: SavingsChapter1_94
+  - first:
+      213: -4116086184529535125
+    second: SavingsChapter1_95
+  - first:
+      213: 6765618510134115266
+    second: SavingsChapter1_96
+  - first:
+      213: 4883489711460017493
+    second: SavingsChapter1_97
+  - first:
+      213: -5786422789937856465
+    second: SavingsChapter1_98
+  - first:
+      213: -4126738180795400404
+    second: SavingsChapter1_99
+  - first:
+      213: -4162571528308815573
+    second: SavingsChapter1_100
+  - first:
+      213: 9177809376074849309
+    second: SavingsChapter1_101
+  - first:
+      213: 6552868015784171090
+    second: SavingsChapter1_102
+  - first:
+      213: -4012208339077287155
+    second: SavingsChapter1_103
+  - first:
+      213: -820938077630097390
+    second: SavingsChapter1_104
+  - first:
+      213: 7538237664838329052
+    second: SavingsChapter1_105
+  - first:
+      213: -3186083953915602769
+    second: SavingsChapter1_106
+  - first:
+      213: -5769402960516194633
+    second: SavingsChapter1_107
+  - first:
+      213: 7155704763713498476
+    second: SavingsChapter1_108
+  - first:
+      213: 8104619848749324566
+    second: SavingsChapter1_109
+  - first:
+      213: -4253872141864454371
+    second: SavingsChapter1_110
+  - first:
+      213: -1801950547733861927
+    second: SavingsChapter1_111
+  - first:
+      213: -4776334126846280853
+    second: SavingsChapter1_112
+  - first:
+      213: 144149304088772337
+    second: SavingsChapter1_113
+  - first:
+      213: -840762055639471103
+    second: SavingsChapter1_114
+  - first:
+      213: -4637966354613299450
+    second: SavingsChapter1_115
+  - first:
+      213: 2070350677618654829
+    second: SavingsChapter1_116
+  - first:
+      213: 1373391275492526061
+    second: SavingsChapter1_117
+  - first:
+      213: -6217846405206508618
+    second: SavingsChapter1_118
+  - first:
+      213: 2085531117293619028
+    second: SavingsChapter1_119
+  - first:
+      213: -5283920479386198845
+    second: SavingsChapter1_120
+  - first:
+      213: -4076267016923670458
+    second: SavingsChapter1_121
+  - first:
+      213: -5444392946925610434
+    second: SavingsChapter1_122
+  - first:
+      213: -3138289979472906222
+    second: SavingsChapter1_123
+  - first:
+      213: 108668666816044593
+    second: SavingsChapter1_124
+  - first:
+      213: -4352723178742116475
+    second: SavingsChapter1_125
+  - first:
+      213: 9067876278940853910
+    second: SavingsChapter1_126
+  - first:
+      213: -777424886394563714
+    second: SavingsChapter1_127
+  - first:
+      213: -2829108587259091617
+    second: SavingsChapter1_128
+  - first:
+      213: -8144993236364770539
+    second: SavingsChapter1_129
+  - first:
+      213: -6408446015882991947
+    second: SavingsChapter1_130
+  - first:
+      213: -6024268900456135159
+    second: SavingsChapter1_131
+  - first:
+      213: 4076371304646560107
+    second: SavingsChapter1_132
+  - first:
+      213: 3715995385375000871
+    second: SavingsChapter1_133
+  - first:
+      213: 651716814371307271
+    second: SavingsChapter1_134
+  - first:
+      213: -2628324738443213464
+    second: SavingsChapter1_135
+  - first:
+      213: -7830045749174029767
+    second: SavingsChapter1_136
+  - first:
+      213: -7211918116174816956
+    second: SavingsChapter1_137
+  - first:
+      213: 6413606906607932754
+    second: SavingsChapter1_138
+  - first:
+      213: 2897690601683090647
+    second: SavingsChapter1_139
+  - first:
+      213: 5904769195595986109
+    second: SavingsChapter1_140
+  - first:
+      213: 5229375069786182973
+    second: SavingsChapter1_141
+  - first:
+      213: 7550295869369122666
+    second: SavingsChapter1_142
+  - first:
+      213: -3266893400231245984
+    second: SavingsChapter1_143
+  - first:
+      213: 5630152809821465706
+    second: SavingsChapter1_144
+  - first:
+      213: 7544320969973540605
+    second: SavingsChapter1_145
+  - first:
+      213: 8444032421340009417
+    second: SavingsChapter1_146
+  - first:
+      213: -8992973352978621285
+    second: SavingsChapter1_147
+  - first:
+      213: -1110307610587599725
+    second: SavingsChapter1_148
+  - first:
+      213: -1110364014474746584
+    second: SavingsChapter1_149
+  - first:
+      213: 2262003827226491942
+    second: SavingsChapter1_150
+  - first:
+      213: -4328310415865115596
+    second: SavingsChapter1_151
+  - first:
+      213: -6010242897076643682
+    second: SavingsChapter1_152
+  - first:
+      213: 8066312801819386520
+    second: SavingsChapter1_153
+  - first:
+      213: -8510557858286014402
+    second: SavingsChapter1_154
+  - first:
+      213: -7336550655026506496
+    second: SavingsChapter1_155
+  - first:
+      213: -7427993388438228486
+    second: SavingsChapter1_156
+  - first:
+      213: 1141340697196438201
+    second: SavingsChapter1_157
+  - first:
+      213: -475036823336796524
+    second: SavingsChapter1_158
+  - first:
+      213: 3227979172345947554
+    second: SavingsChapter1_159
+  - first:
+      213: 1689556011171619295
+    second: SavingsChapter1_160
+  - first:
+      213: 667189005460257197
+    second: SavingsChapter1_161
+  - first:
+      213: 3405613878450704083
+    second: SavingsChapter1_162
+  - first:
+      213: 9103830162535238350
+    second: SavingsChapter1_163
+  - first:
+      213: 8708632219669619965
+    second: SavingsChapter1_164
+  - first:
+      213: -7284719360352272676
+    second: SavingsChapter1_165
+  - first:
+      213: -7673537446862117235
+    second: SavingsChapter1_166
+  - first:
+      213: -1077936342964898497
+    second: SavingsChapter1_167
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SavingsChapter1_0
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005c82cd993680ba0800000000000000
+      internalID: -6122534180935383808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f543b2462f0d0960800000000000000
+      internalID: 7569723205681890806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1697fbd9264812760800000000000000
+      internalID: 7431366419226261857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254fd25bf934ee890800000000000000
+      internalID: -7426924382268820398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 343
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29418e9686448d10800000000000000
+      internalID: 2126902468024551727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1098fed647d597000800000000000000
+      internalID: 34161226823993601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c21373a38145bb40800000000000000
+      internalID: 5455338557267972807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 343
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc0c15caa807b040800000000000000
+      internalID: 4663205468709850335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_8
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 373
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87115c5adcb4cab20800000000000000
+      internalID: 3146973586246668664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_9
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 351
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c1ee04d97a2b3b0800000000000000
+      internalID: -5498147901224903529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 273
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752dac522b3193990800000000000000
+      internalID: -7405866456374914473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 273
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f0114fe4ab0ff80800000000000000
+      internalID: -8074749283610325171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 273
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d12cb5e508ba00800000000000000
+      internalID: 772373820356024523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 308
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1e0761cfda51780800000000000000
+      internalID: -8712866605858496076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 273
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261a30753e3c611e0800000000000000
+      internalID: -2227377584503283358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 273
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839b1374c6f60eeb0800000000000000
+      internalID: -4692628300878464712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 308
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7babe3ab9d638aec0800000000000000
+      internalID: -3555531597048530249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_17
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 273
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1699325e4637516a0800000000000000
+      internalID: -6479145611724351135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_18
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 273
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafe59f67c2b20720800000000000000
+      internalID: 2811005687072944044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_19
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 273
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10501017f996e8450800000000000000
+      internalID: 6092923479395468545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_20
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 297
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a8c700e2596e820800000000000000
+      internalID: 2947207030969764410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_21
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 273
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d6574e7b37ee5e0800000000000000
+      internalID: -1878436760917807833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_22
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 273
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a0a949128674700800000000000000
+      internalID: 524502375048284747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4040d2674b95e10800000000000000
+      internalID: 2186977513719465208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 273
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903040632ff10bfd0800000000000000
+      internalID: -2328325882201767159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 273
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f0dddde0ffd7d00800000000000000
+      internalID: 972213533898772382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_26
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d22682be87cfe960800000000000000
+      internalID: 7633539309110698710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_27
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 268
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c09cfceb1f2b810800000000000000
+      internalID: 1779750604596907026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_28
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 273
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753b4e02f89589db0800000000000000
+      internalID: -4784976132814097577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 273
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e1754803ce5140800000000000000
+      internalID: 4710416700568364719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_30
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ece90c433860b2f0800000000000000
+      internalID: -959152151101575967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_31
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a980e5ed106012900800000000000000
+      internalID: 657813625668241562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_32
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f729997571ada80800000000000000
+      internalID: -8441408886546464955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_33
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee716ae52f5c8e730800000000000000
+      internalID: 4028687511443609582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_34
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d461b15690557fb0800000000000000
+      internalID: -4650722433644272424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_35
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 273
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503ca37926b70b5d0800000000000000
+      internalID: -3048801284355603707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_36
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770e8a8e09436d6c0800000000000000
+      internalID: -4119047012200423305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_37
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494190a0c2b63a170800000000000000
+      internalID: 8188506384380794004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3333074b27f5415b0800000000000000
+      internalID: -5398585107052219597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_39
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0e60051c01e05f0800000000000000
+      internalID: -788674462285897492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972eb016ea16726f0800000000000000
+      internalID: -709491014707191175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d23567bb039934a0800000000000000
+      internalID: -6613092899286076712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98013b92979247550800000000000000
+      internalID: 6157592190889693321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 214
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123622e6166aebda0800000000000000
+      internalID: -5927117122183208159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff26f05c0d33cd120800000000000000
+      internalID: 2439882069880300287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1142d6cde5eaa1d80800000000000000
+      internalID: -8279113242518936559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c716faf44a79230800000000000000
+      internalID: 3645563085531479080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc1eea0bce06e740800000000000000
+      internalID: 5180844686560861431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ba670ac87264fc0800000000000000
+      internalID: -3511075374547686530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_49
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3ac6c7645f74d10800000000000000
+      internalID: 2109924633530377133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3673f0fd14fd770800000000000000
+      internalID: 8637695036608701406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_51
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e557f3a8f2be0b0800000000000000
+      internalID: -5698408632690581882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0afee36987c08f50800000000000000
+      internalID: 6881719623523170826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_53
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31b5e2bab3319300800000000000000
+      internalID: 257043530695160122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_54
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c7de4b6972c3040800000000000000
+      internalID: 4628618045264067654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d75160216722420800000000000000
+      internalID: 2603773354357128508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0cacb49b96b3470800000000000000
+      internalID: 8375404176587014314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43618cc0547feb1a0800000000000000
+      internalID: -6791719312088885708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_58
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 214
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e1183dbd10a8480800000000000000
+      internalID: -8896296070259073517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_59
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fce6bac4d2ed920800000000000000
+      internalID: 3016898607701741366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_60
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39680878a9f5175f0800000000000000
+      internalID: -760721744745953645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_61
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac61083d44390f220800000000000000
+      internalID: 2517674115515553482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_62
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a178fc302a365f090800000000000000
+      internalID: -8001379615454034150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_63
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 209
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d37fbd090af6a90800000000000000
+      internalID: -7318454325427618428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_64
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42609619e2afe27f0800000000000000
+      internalID: -635295419497642460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_65
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f679d0d1147eee130800000000000000
+      internalID: 3598067419161925487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_66
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765fc8ffe1049da80800000000000000
+      internalID: -8441645524648659609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_67
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916f7fd1311959fe0800000000000000
+      internalID: -1182879815821691367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_68
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3376e7d802fb98ab0800000000000000
+      internalID: -5005259364311865549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_69
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a026ef5a5c91549f0800000000000000
+      internalID: -484953048188296694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_70
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18de57dcabd2672a0800000000000000
+      internalID: -6740149511979143807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_71
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 214
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216a4fc4734158750800000000000000
+      internalID: 6306469080949106194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_72
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 214
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45ca4a10ee9d3490800000000000000
+      internalID: -7764875497165896370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_73
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199aebe35ff819070800000000000000
+      internalID: 8111422687353416081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_74
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97165a87d0ebc070800000000000000
+      internalID: 8127837168863680414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_75
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c581c9f30bb91260800000000000000
+      internalID: 7068886715884209607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_76
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb5fb2f4af3c0d90800000000000000
+      internalID: -7130254132354524229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_77
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c864fdbf0993fd0800000000000000
+      internalID: -2361697118121980859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_78
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631716e9d0033e690800000000000000
+      internalID: -7574157313257148106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_79
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb573cfeb0b94c200800000000000000
+      internalID: 199454759080654268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_80
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709d3ce4edbe6ad40800000000000000
+      internalID: 5595418927091144967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_81
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4600aa385d66bfa50800000000000000
+      internalID: 6555946749790912612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e1d77a9f5dc7d30800000000000000
+      internalID: 4430651401659293293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_83
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b9e3193b6e0b190800000000000000
+      internalID: -7948599683398591607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_84
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ee5e5672cc55420800000000000000
+      internalID: 2618223227971169808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_85
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d0db927ec108420800000000000000
+      internalID: 2630133961547648326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_86
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f50b990138b6bcf0800000000000000
+      internalID: -236799409636309517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_87
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2984e14a68350ff10800000000000000
+      internalID: 2301431247330494610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_88
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551f98d512ef0bdd0800000000000000
+      internalID: -2472196776169705131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_89
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a7151801832f210800000000000000
+      internalID: 1365215280586914353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_90
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cada29c415084820800000000000000
+      internalID: 2902575546672798405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_91
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee9cd962dc2eda20800000000000000
+      internalID: 3088955676653559532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_92
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e622aa81b8b5c5a30800000000000000
+      internalID: 4205336805029585518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_93
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2796815c718e1c0800000000000000
+      internalID: -4474300094507027734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_94
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 209
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b0542893e1a5900800000000000000
+      internalID: 673884326592842532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_95
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 214
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f59325c69b0e6c0800000000000000
+      internalID: -4116086184529535125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_96
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbf95e603e44ed50800000000000000
+      internalID: 6765618510134115266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_97
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55569dbc404a5c340800000000000000
+      internalID: 4883489711460017493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_98
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20878d512f72bfa0800000000000000
+      internalID: -5786422789937856465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_99
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ff5ac2d71eab6c0800000000000000
+      internalID: -4126738180795400404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_100
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b298ffecf339b36c0800000000000000
+      internalID: -4162571528308815573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_101
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cd03d50012e5f70800000000000000
+      internalID: 9177809376074849309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_102
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25695d4edb670fa50800000000000000
+      internalID: 6552868015784171090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_103
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d033070f5c5c158c0800000000000000
+      internalID: -4012208339077287155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_104
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218144cfa217b94f0800000000000000
+      internalID: -820938077630097390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_105
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2a82587333d9860800000000000000
+      internalID: 7538237664838329052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_106
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8d9464681c8c3d0800000000000000
+      internalID: -3186083953915602769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_107
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be58543396feefa0800000000000000
+      internalID: -5769402960516194633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_108
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6da6bee19b2e4360800000000000000
+      internalID: 7155704763713498476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_109
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6199844ffc4697070800000000000000
+      internalID: 8104619848749324566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_110
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d173d3033d537f4c0800000000000000
+      internalID: -4253872141864454371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_111
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9a083268f2ef6e0800000000000000
+      internalID: -1801950547733861927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_112
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b70c0fa6d07bdb0800000000000000
+      internalID: -4776334126846280853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_113
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb4d0470f100200800000000000000
+      internalID: 144149304088772337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_114
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c6bfc6d530554f0800000000000000
+      internalID: -840762055639471103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_115
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6079f096c22a2afb0800000000000000
+      internalID: -4637966354613299450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_116
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef2fbd8fc5bbc10800000000000000
+      internalID: 2070350677618654829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_117
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de74a59a6144f0310800000000000000
+      internalID: 1373391275492526061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_118
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbf9b553a5c5b9a0800000000000000
+      internalID: -6217846405206508618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_119
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4574f46608b41fc10800000000000000
+      internalID: 2085531117293619028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_120
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc16c4c15ebba6b0800000000000000
+      internalID: -5283920479386198845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_121
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6489f9ebeb03e67c0800000000000000
+      internalID: -4076267016923670458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_122
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a5bdcd571a174b0800000000000000
+      internalID: -5444392946925610434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_123
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218795b14ed8274d0800000000000000
+      internalID: -3138289979472906222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_124
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e19c3a391128100800000000000000
+      internalID: 108668666816044593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_125
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f8775a4550893c0800000000000000
+      internalID: -4352723178742116475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_126
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696e5799e6197dd70800000000000000
+      internalID: 9067876278940853910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_127
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7357ee4f280635f0800000000000000
+      internalID: -777424886394563714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_128
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f552a69aabcfcb8d0800000000000000
+      internalID: -2829108587259091617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_129
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513c4883ecb27fe80800000000000000
+      internalID: -8144993236364770539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_130
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6e60d4d40a017a0800000000000000
+      internalID: -6408446015882991947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_131
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90601ec5a5f756ca0800000000000000
+      internalID: -6024268900456135159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_132
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69cd02aa1e229830800000000000000
+      internalID: 4076371304646560107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_133
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72984446d1ed19330800000000000000
+      internalID: 3715995385375000871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_134
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 214
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f30ce5dfc5b0900800000000000000
+      internalID: 651716814371307271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_135
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86588ba6390568bd0800000000000000
+      internalID: -2628324738443213464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_136
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932bc6160e6165390800000000000000
+      internalID: -7830045749174029767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_137
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44912380fae1aeb90800000000000000
+      internalID: -7211918116174816956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_138
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2559b553085b10950800000000000000
+      internalID: 6413606906607932754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_139
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcfe46ef3aa63820800000000000000
+      internalID: 2897690601683090647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_140
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4fa207c44f1f150800000000000000
+      internalID: 5904769195595986109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_141
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 209
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3593e76be8729840800000000000000
+      internalID: 5229375069786182973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_142
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f78da071a08c860800000000000000
+      internalID: 7550295869369122666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_143
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0670620e2c9a9a2d0800000000000000
+      internalID: -3266893400231245984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_144
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 209
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c63949622522e40800000000000000
+      internalID: 5630152809821465706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_145
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 209
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6adce53ffc2b860800000000000000
+      internalID: 7544320969973540605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_146
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c35ad1bfba3f2570800000000000000
+      internalID: 8444032421340009417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_147
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd72dd16a823380800000000000000
+      internalID: -8992973352978621285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_148
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 168
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c638f5c156790f0800000000000000
+      internalID: -1110307610587599725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_149
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 163
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8252bd1dfc13790f0800000000000000
+      internalID: -1110364014474746584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_150
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cb86a0f70446f10800000000000000
+      internalID: 2262003827226491942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_151
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 168
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c8cb0fb90cee3c0800000000000000
+      internalID: -4328310415865115596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_152
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 168
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e989ee1cde3579ca0800000000000000
+      internalID: -6010242897076643682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89261af81cc41ff60800000000000000
+      internalID: 8066312801819386520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_154
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30f37008bc64e980800000000000000
+      internalID: -8510557858286014402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_155
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0055c7acc065f2a90800000000000000
+      internalID: -7336550655026506496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_156
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af170305e577ae890800000000000000
+      internalID: -7427993388438228486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_157
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 168
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b22718215bd6df00800000000000000
+      internalID: 1141340697196438201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_158
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eb7c9a6845869f0800000000000000
+      internalID: -475036823336796524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_159
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a52a0664f51ccc20800000000000000
+      internalID: 3227979172345947554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_160
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1a2029d32827710800000000000000
+      internalID: 1689556011171619295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_161
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 168
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da931849dd4524900800000000000000
+      internalID: 667189005460257197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_162
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dec13b57cb234f20800000000000000
+      internalID: 3405613878450704083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_163
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 168
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca46657c4d475e70800000000000000
+      internalID: 9103830162535238350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_164
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4edec0dd64bd870800000000000000
+      internalID: 8708632219669619965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_165
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdebacd765a77ea90800000000000000
+      internalID: -7284719360352272676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_166
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d862025295e128590800000000000000
+      internalID: -7673537446862117235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavingsChapter1_167
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 168
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35f7137b966a01f0800000000000000
+      internalID: -1077936342964898497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SavingsChapter1_0: -6122534180935383808
+      SavingsChapter1_1: 7569723205681890806
+      SavingsChapter1_10: -7405866456374914473
+      SavingsChapter1_100: -4162571528308815573
+      SavingsChapter1_101: 9177809376074849309
+      SavingsChapter1_102: 6552868015784171090
+      SavingsChapter1_103: -4012208339077287155
+      SavingsChapter1_104: -820938077630097390
+      SavingsChapter1_105: 7538237664838329052
+      SavingsChapter1_106: -3186083953915602769
+      SavingsChapter1_107: -5769402960516194633
+      SavingsChapter1_108: 7155704763713498476
+      SavingsChapter1_109: 8104619848749324566
+      SavingsChapter1_11: -8074749283610325171
+      SavingsChapter1_110: -4253872141864454371
+      SavingsChapter1_111: -1801950547733861927
+      SavingsChapter1_112: -4776334126846280853
+      SavingsChapter1_113: 144149304088772337
+      SavingsChapter1_114: -840762055639471103
+      SavingsChapter1_115: -4637966354613299450
+      SavingsChapter1_116: 2070350677618654829
+      SavingsChapter1_117: 1373391275492526061
+      SavingsChapter1_118: -6217846405206508618
+      SavingsChapter1_119: 2085531117293619028
+      SavingsChapter1_12: 772373820356024523
+      SavingsChapter1_120: -5283920479386198845
+      SavingsChapter1_121: -4076267016923670458
+      SavingsChapter1_122: -5444392946925610434
+      SavingsChapter1_123: -3138289979472906222
+      SavingsChapter1_124: 108668666816044593
+      SavingsChapter1_125: -4352723178742116475
+      SavingsChapter1_126: 9067876278940853910
+      SavingsChapter1_127: -777424886394563714
+      SavingsChapter1_128: -2829108587259091617
+      SavingsChapter1_129: -8144993236364770539
+      SavingsChapter1_13: -8712866605858496076
+      SavingsChapter1_130: -6408446015882991947
+      SavingsChapter1_131: -6024268900456135159
+      SavingsChapter1_132: 4076371304646560107
+      SavingsChapter1_133: 3715995385375000871
+      SavingsChapter1_134: 651716814371307271
+      SavingsChapter1_135: -2628324738443213464
+      SavingsChapter1_136: -7830045749174029767
+      SavingsChapter1_137: -7211918116174816956
+      SavingsChapter1_138: 6413606906607932754
+      SavingsChapter1_139: 2897690601683090647
+      SavingsChapter1_14: -2227377584503283358
+      SavingsChapter1_140: 5904769195595986109
+      SavingsChapter1_141: 5229375069786182973
+      SavingsChapter1_142: 7550295869369122666
+      SavingsChapter1_143: -3266893400231245984
+      SavingsChapter1_144: 5630152809821465706
+      SavingsChapter1_145: 7544320969973540605
+      SavingsChapter1_146: 8444032421340009417
+      SavingsChapter1_147: -8992973352978621285
+      SavingsChapter1_148: -1110307610587599725
+      SavingsChapter1_149: -1110364014474746584
+      SavingsChapter1_15: -4692628300878464712
+      SavingsChapter1_150: 2262003827226491942
+      SavingsChapter1_151: -4328310415865115596
+      SavingsChapter1_152: -6010242897076643682
+      SavingsChapter1_153: 8066312801819386520
+      SavingsChapter1_154: -8510557858286014402
+      SavingsChapter1_155: -7336550655026506496
+      SavingsChapter1_156: -7427993388438228486
+      SavingsChapter1_157: 1141340697196438201
+      SavingsChapter1_158: -475036823336796524
+      SavingsChapter1_159: 3227979172345947554
+      SavingsChapter1_16: -3555531597048530249
+      SavingsChapter1_160: 1689556011171619295
+      SavingsChapter1_161: 667189005460257197
+      SavingsChapter1_162: 3405613878450704083
+      SavingsChapter1_163: 9103830162535238350
+      SavingsChapter1_164: 8708632219669619965
+      SavingsChapter1_165: -7284719360352272676
+      SavingsChapter1_166: -7673537446862117235
+      SavingsChapter1_167: -1077936342964898497
+      SavingsChapter1_17: -6479145611724351135
+      SavingsChapter1_18: 2811005687072944044
+      SavingsChapter1_19: 6092923479395468545
+      SavingsChapter1_2: 7431366419226261857
+      SavingsChapter1_20: 2947207030969764410
+      SavingsChapter1_21: -1878436760917807833
+      SavingsChapter1_22: 524502375048284747
+      SavingsChapter1_23: 2186977513719465208
+      SavingsChapter1_24: -2328325882201767159
+      SavingsChapter1_25: 972213533898772382
+      SavingsChapter1_26: 7633539309110698710
+      SavingsChapter1_27: 1779750604596907026
+      SavingsChapter1_28: -4784976132814097577
+      SavingsChapter1_29: 4710416700568364719
+      SavingsChapter1_3: -7426924382268820398
+      SavingsChapter1_30: -959152151101575967
+      SavingsChapter1_31: 657813625668241562
+      SavingsChapter1_32: -8441408886546464955
+      SavingsChapter1_33: 4028687511443609582
+      SavingsChapter1_34: -4650722433644272424
+      SavingsChapter1_35: -3048801284355603707
+      SavingsChapter1_36: -4119047012200423305
+      SavingsChapter1_37: 8188506384380794004
+      SavingsChapter1_38: -5398585107052219597
+      SavingsChapter1_39: -788674462285897492
+      SavingsChapter1_4: 2126902468024551727
+      SavingsChapter1_40: -709491014707191175
+      SavingsChapter1_41: -6613092899286076712
+      SavingsChapter1_42: 6157592190889693321
+      SavingsChapter1_43: -5927117122183208159
+      SavingsChapter1_44: 2439882069880300287
+      SavingsChapter1_45: -8279113242518936559
+      SavingsChapter1_46: 3645563085531479080
+      SavingsChapter1_47: 5180844686560861431
+      SavingsChapter1_48: -3511075374547686530
+      SavingsChapter1_49: 2109924633530377133
+      SavingsChapter1_5: 34161226823993601
+      SavingsChapter1_50: 8637695036608701406
+      SavingsChapter1_51: -5698408632690581882
+      SavingsChapter1_52: 6881719623523170826
+      SavingsChapter1_53: 257043530695160122
+      SavingsChapter1_54: 4628618045264067654
+      SavingsChapter1_55: 2603773354357128508
+      SavingsChapter1_56: 8375404176587014314
+      SavingsChapter1_57: -6791719312088885708
+      SavingsChapter1_58: -8896296070259073517
+      SavingsChapter1_59: 3016898607701741366
+      SavingsChapter1_6: 5455338557267972807
+      SavingsChapter1_60: -760721744745953645
+      SavingsChapter1_61: 2517674115515553482
+      SavingsChapter1_62: -8001379615454034150
+      SavingsChapter1_63: -7318454325427618428
+      SavingsChapter1_64: -635295419497642460
+      SavingsChapter1_65: 3598067419161925487
+      SavingsChapter1_66: -8441645524648659609
+      SavingsChapter1_67: -1182879815821691367
+      SavingsChapter1_68: -5005259364311865549
+      SavingsChapter1_69: -484953048188296694
+      SavingsChapter1_7: 4663205468709850335
+      SavingsChapter1_70: -6740149511979143807
+      SavingsChapter1_71: 6306469080949106194
+      SavingsChapter1_72: -7764875497165896370
+      SavingsChapter1_73: 8111422687353416081
+      SavingsChapter1_74: 8127837168863680414
+      SavingsChapter1_75: 7068886715884209607
+      SavingsChapter1_76: -7130254132354524229
+      SavingsChapter1_77: -2361697118121980859
+      SavingsChapter1_78: -7574157313257148106
+      SavingsChapter1_79: 199454759080654268
+      SavingsChapter1_8: 3146973586246668664
+      SavingsChapter1_80: 5595418927091144967
+      SavingsChapter1_81: 6555946749790912612
+      SavingsChapter1_82: 4430651401659293293
+      SavingsChapter1_83: -7948599683398591607
+      SavingsChapter1_84: 2618223227971169808
+      SavingsChapter1_85: 2630133961547648326
+      SavingsChapter1_86: -236799409636309517
+      SavingsChapter1_87: 2301431247330494610
+      SavingsChapter1_88: -2472196776169705131
+      SavingsChapter1_89: 1365215280586914353
+      SavingsChapter1_9: -5498147901224903529
+      SavingsChapter1_90: 2902575546672798405
+      SavingsChapter1_91: 3088955676653559532
+      SavingsChapter1_92: 4205336805029585518
+      SavingsChapter1_93: -4474300094507027734
+      SavingsChapter1_94: 673884326592842532
+      SavingsChapter1_95: -4116086184529535125
+      SavingsChapter1_96: 6765618510134115266
+      SavingsChapter1_97: 4883489711460017493
+      SavingsChapter1_98: -5786422789937856465
+      SavingsChapter1_99: -4126738180795400404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

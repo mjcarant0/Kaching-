@@ -1,0 +1,4251 @@
+fileFormatVersion: 2
+guid: ab70cf942109f5342b1246aa75b6adc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3596260788665828967
+    second: InvestingChapter1_0
+  - first:
+      213: 7596462078512480481
+    second: InvestingChapter1_1
+  - first:
+      213: 1351217396849809828
+    second: InvestingChapter1_2
+  - first:
+      213: -5621601610447341858
+    second: InvestingChapter1_3
+  - first:
+      213: -785733470026433605
+    second: InvestingChapter1_4
+  - first:
+      213: -507281849862976117
+    second: InvestingChapter1_5
+  - first:
+      213: -7565495305059105923
+    second: InvestingChapter1_6
+  - first:
+      213: -2399816860699625936
+    second: InvestingChapter1_7
+  - first:
+      213: 930044642000531230
+    second: InvestingChapter1_8
+  - first:
+      213: 2455655473690513920
+    second: InvestingChapter1_9
+  - first:
+      213: 479123850474181819
+    second: InvestingChapter1_10
+  - first:
+      213: 7839281927953150115
+    second: InvestingChapter1_11
+  - first:
+      213: 5267263696587037456
+    second: InvestingChapter1_12
+  - first:
+      213: -3405711720346550051
+    second: InvestingChapter1_13
+  - first:
+      213: -1006480475310369238
+    second: InvestingChapter1_14
+  - first:
+      213: -6055846325586650932
+    second: InvestingChapter1_15
+  - first:
+      213: 1733745047922411165
+    second: InvestingChapter1_16
+  - first:
+      213: 2909422136300480292
+    second: InvestingChapter1_17
+  - first:
+      213: -4199996664514081358
+    second: InvestingChapter1_18
+  - first:
+      213: 8865018953075429268
+    second: InvestingChapter1_19
+  - first:
+      213: -6845546408554731561
+    second: InvestingChapter1_20
+  - first:
+      213: 3255428920791209055
+    second: InvestingChapter1_21
+  - first:
+      213: 652318972973974276
+    second: InvestingChapter1_22
+  - first:
+      213: -7244454813797010598
+    second: InvestingChapter1_23
+  - first:
+      213: 8468546464177428860
+    second: InvestingChapter1_24
+  - first:
+      213: 8012968328499122251
+    second: InvestingChapter1_25
+  - first:
+      213: 6209774424120139994
+    second: InvestingChapter1_26
+  - first:
+      213: -4909890289791198602
+    second: InvestingChapter1_27
+  - first:
+      213: 3593048443180518441
+    second: InvestingChapter1_28
+  - first:
+      213: 3287053306686097402
+    second: InvestingChapter1_29
+  - first:
+      213: 8913551091909846715
+    second: InvestingChapter1_30
+  - first:
+      213: -7267225784292718440
+    second: InvestingChapter1_31
+  - first:
+      213: 5267862989264271130
+    second: InvestingChapter1_32
+  - first:
+      213: 1442488155146203671
+    second: InvestingChapter1_33
+  - first:
+      213: 9160417990033065932
+    second: InvestingChapter1_34
+  - first:
+      213: -3095428872971402789
+    second: InvestingChapter1_35
+  - first:
+      213: -7090345676041410496
+    second: InvestingChapter1_36
+  - first:
+      213: -56715087203481459
+    second: InvestingChapter1_37
+  - first:
+      213: -3299541476872233807
+    second: InvestingChapter1_38
+  - first:
+      213: 4706185353293813061
+    second: InvestingChapter1_39
+  - first:
+      213: -8121100832735060609
+    second: InvestingChapter1_40
+  - first:
+      213: 3081472231507801007
+    second: InvestingChapter1_41
+  - first:
+      213: -2923505605060452074
+    second: InvestingChapter1_42
+  - first:
+      213: -538969561550981892
+    second: InvestingChapter1_43
+  - first:
+      213: 318352424704820612
+    second: InvestingChapter1_44
+  - first:
+      213: 9196807122488940378
+    second: InvestingChapter1_45
+  - first:
+      213: -5965012231648356666
+    second: InvestingChapter1_46
+  - first:
+      213: -8336857097901269655
+    second: InvestingChapter1_47
+  - first:
+      213: 5247537681497767898
+    second: InvestingChapter1_48
+  - first:
+      213: 3499349975238076510
+    second: InvestingChapter1_49
+  - first:
+      213: 8868192384938220059
+    second: InvestingChapter1_50
+  - first:
+      213: -3138653885793543655
+    second: InvestingChapter1_51
+  - first:
+      213: -5647810379142649336
+    second: InvestingChapter1_52
+  - first:
+      213: -472354934996214620
+    second: InvestingChapter1_53
+  - first:
+      213: -2054383725761910776
+    second: InvestingChapter1_54
+  - first:
+      213: 964557686173057500
+    second: InvestingChapter1_55
+  - first:
+      213: 839293119963390816
+    second: InvestingChapter1_56
+  - first:
+      213: 2272524298257742252
+    second: InvestingChapter1_57
+  - first:
+      213: -3994592908893815762
+    second: InvestingChapter1_58
+  - first:
+      213: -6687952523112137157
+    second: InvestingChapter1_59
+  - first:
+      213: 6906872251207426606
+    second: InvestingChapter1_60
+  - first:
+      213: -8846158378420405540
+    second: InvestingChapter1_61
+  - first:
+      213: -5739231599743324647
+    second: InvestingChapter1_62
+  - first:
+      213: 6341234250622373267
+    second: InvestingChapter1_63
+  - first:
+      213: -3918017664350077107
+    second: InvestingChapter1_64
+  - first:
+      213: -732790540605717743
+    second: InvestingChapter1_65
+  - first:
+      213: 6487625470687332618
+    second: InvestingChapter1_66
+  - first:
+      213: -4199907030686718690
+    second: InvestingChapter1_67
+  - first:
+      213: -7286042340189100914
+    second: InvestingChapter1_68
+  - first:
+      213: -6724325788406312330
+    second: InvestingChapter1_69
+  - first:
+      213: 20071658520169810
+    second: InvestingChapter1_70
+  - first:
+      213: -844963724789958116
+    second: InvestingChapter1_71
+  - first:
+      213: 4783330841750191098
+    second: InvestingChapter1_72
+  - first:
+      213: -6520210610224716672
+    second: InvestingChapter1_73
+  - first:
+      213: -4822554719688291979
+    second: InvestingChapter1_74
+  - first:
+      213: 2321964689624286234
+    second: InvestingChapter1_75
+  - first:
+      213: -3806914027184559004
+    second: InvestingChapter1_76
+  - first:
+      213: 7181460366048010514
+    second: InvestingChapter1_77
+  - first:
+      213: -7100753219174470393
+    second: InvestingChapter1_78
+  - first:
+      213: 6823879719085811717
+    second: InvestingChapter1_79
+  - first:
+      213: 2704947971463342615
+    second: InvestingChapter1_80
+  - first:
+      213: -7739854780940460698
+    second: InvestingChapter1_81
+  - first:
+      213: -4042645980881461661
+    second: InvestingChapter1_82
+  - first:
+      213: 5578456854867813747
+    second: InvestingChapter1_83
+  - first:
+      213: 1001026199323814974
+    second: InvestingChapter1_84
+  - first:
+      213: 2575311747173051697
+    second: InvestingChapter1_85
+  - first:
+      213: -782795241853021111
+    second: InvestingChapter1_86
+  - first:
+      213: -6644844189982156849
+    second: InvestingChapter1_87
+  - first:
+      213: 4711324751497889837
+    second: InvestingChapter1_88
+  - first:
+      213: -8468348699026819021
+    second: InvestingChapter1_89
+  - first:
+      213: -3219502532539889463
+    second: InvestingChapter1_90
+  - first:
+      213: -9169048896673059161
+    second: InvestingChapter1_91
+  - first:
+      213: 4849005767849376950
+    second: InvestingChapter1_92
+  - first:
+      213: -8172271216879221260
+    second: InvestingChapter1_93
+  - first:
+      213: 5581339970744763233
+    second: InvestingChapter1_94
+  - first:
+      213: 9130646307118188244
+    second: InvestingChapter1_95
+  - first:
+      213: 824676183240053286
+    second: InvestingChapter1_96
+  - first:
+      213: -7561885537140422092
+    second: InvestingChapter1_97
+  - first:
+      213: 2256450711660193596
+    second: InvestingChapter1_98
+  - first:
+      213: -5836235903033406713
+    second: InvestingChapter1_99
+  - first:
+      213: 2697537555750617816
+    second: InvestingChapter1_100
+  - first:
+      213: 1300260313666280668
+    second: InvestingChapter1_101
+  - first:
+      213: -8243798683881624748
+    second: InvestingChapter1_102
+  - first:
+      213: 8715319973377970907
+    second: InvestingChapter1_103
+  - first:
+      213: 8915583911892413657
+    second: InvestingChapter1_104
+  - first:
+      213: 1634521349872756408
+    second: InvestingChapter1_105
+  - first:
+      213: 3729715551114298946
+    second: InvestingChapter1_106
+  - first:
+      213: 4922486575166458335
+    second: InvestingChapter1_107
+  - first:
+      213: -1338736279293332587
+    second: InvestingChapter1_108
+  - first:
+      213: 8447340612708263091
+    second: InvestingChapter1_109
+  - first:
+      213: -2595570614592464097
+    second: InvestingChapter1_110
+  - first:
+      213: 4996842400995904864
+    second: InvestingChapter1_111
+  - first:
+      213: -4609020714236962618
+    second: InvestingChapter1_112
+  - first:
+      213: 605235082217350773
+    second: InvestingChapter1_113
+  - first:
+      213: 2873488124560519424
+    second: InvestingChapter1_114
+  - first:
+      213: -782644334177089463
+    second: InvestingChapter1_115
+  - first:
+      213: -578632110399936404
+    second: InvestingChapter1_116
+  - first:
+      213: 6909394344502164686
+    second: InvestingChapter1_117
+  - first:
+      213: -2140888380734714821
+    second: InvestingChapter1_118
+  - first:
+      213: -500234849077385939
+    second: InvestingChapter1_119
+  - first:
+      213: 3246703060429253873
+    second: InvestingChapter1_120
+  - first:
+      213: 1890165921064345323
+    second: InvestingChapter1_121
+  - first:
+      213: 7710510420471395809
+    second: InvestingChapter1_122
+  - first:
+      213: 9130266019557395874
+    second: InvestingChapter1_123
+  - first:
+      213: 8637301814361729900
+    second: InvestingChapter1_124
+  - first:
+      213: 5752827388876564194
+    second: InvestingChapter1_125
+  - first:
+      213: -7168880166098331931
+    second: InvestingChapter1_126
+  - first:
+      213: 4732128560744644775
+    second: InvestingChapter1_127
+  - first:
+      213: 4380925607993863367
+    second: InvestingChapter1_128
+  - first:
+      213: -3027361150704318458
+    second: InvestingChapter1_129
+  - first:
+      213: -876614206455888665
+    second: InvestingChapter1_130
+  - first:
+      213: 1517413376062151812
+    second: InvestingChapter1_131
+  - first:
+      213: -5426335428535884719
+    second: InvestingChapter1_132
+  - first:
+      213: -7110688277258477371
+    second: InvestingChapter1_133
+  - first:
+      213: 3195694062560448009
+    second: InvestingChapter1_134
+  - first:
+      213: 5081317004557108508
+    second: InvestingChapter1_135
+  - first:
+      213: -7668194804673835667
+    second: InvestingChapter1_136
+  - first:
+      213: -1406854523416260151
+    second: InvestingChapter1_137
+  - first:
+      213: -8690603441842423775
+    second: InvestingChapter1_138
+  - first:
+      213: -3580280075600176676
+    second: InvestingChapter1_139
+  - first:
+      213: 6508468876050402489
+    second: InvestingChapter1_140
+  - first:
+      213: -9134409987271294628
+    second: InvestingChapter1_141
+  - first:
+      213: -6906673257348529041
+    second: InvestingChapter1_142
+  - first:
+      213: 8230522552528929754
+    second: InvestingChapter1_143
+  - first:
+      213: 1705347882269350566
+    second: InvestingChapter1_144
+  - first:
+      213: 7248252013001394280
+    second: InvestingChapter1_145
+  - first:
+      213: 4378663016646262318
+    second: InvestingChapter1_146
+  - first:
+      213: 4076253130571971375
+    second: InvestingChapter1_147
+  - first:
+      213: 2070872658441277572
+    second: InvestingChapter1_148
+  - first:
+      213: 6614355689539752540
+    second: InvestingChapter1_149
+  - first:
+      213: -2765392385016965596
+    second: InvestingChapter1_150
+  - first:
+      213: -8844538513036769573
+    second: InvestingChapter1_151
+  - first:
+      213: 6573297598587914142
+    second: InvestingChapter1_152
+  - first:
+      213: 2673453284793399890
+    second: InvestingChapter1_153
+  - first:
+      213: 1915402585541020173
+    second: InvestingChapter1_154
+  - first:
+      213: -7974542934730760636
+    second: InvestingChapter1_155
+  - first:
+      213: -4750159519624139672
+    second: InvestingChapter1_156
+  - first:
+      213: 901084546453609676
+    second: InvestingChapter1_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InvestingChapter1_0
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c71c222c78e130800000000000000
+      internalID: 3596260788665828967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0467b330e0c6960800000000000000
+      internalID: 7596462078512480481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a99f89301d70c210800000000000000
+      internalID: 1351217396849809828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6b58cae1f0cf1b0800000000000000
+      internalID: -5621601610447341858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 343
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb70fe62938815f0800000000000000
+      internalID: -785733470026433605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d0ae168d5c5f8f0800000000000000
+      internalID: -507281849862976117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7301109a16f10790800000000000000
+      internalID: -7565495305059105923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 343
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036710ca74322bed0800000000000000
+      internalID: -2399816860699625936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_8
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 373
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f62bf9cae28ec00800000000000000
+      internalID: 930044642000531230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_9
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 351
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002111884ad341220800000000000000
+      internalID: 2455655473690513920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 273
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45eee7a9036a600800000000000000
+      internalID: 479123850474181819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_11
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a079c11169bacc60800000000000000
+      internalID: 7839281927953150115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b9165cc64191940800000000000000
+      internalID: 5267263696587037456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_13
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 273
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd00c5d0c3b7cb0d0800000000000000
+      internalID: -3405711720346550051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_14
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 273
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2652cb17534802f0800000000000000
+      internalID: -1006480475310369238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_15
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 273
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc89d052adf45fba0800000000000000
+      internalID: -6055846325586650932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_16
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9602807fef7f0810800000000000000
+      internalID: 1733745047922411165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_17
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 268
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42729d7a408506820800000000000000
+      internalID: 2909422136300480292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd00d1494d96b5c0800000000000000
+      internalID: -4199996664514081358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f8a29d4cfd60b70800000000000000
+      internalID: 8865018953075429268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e4a88fcbbff0a0800000000000000
+      internalID: -6845546408554731561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f541b4ffa5b9d2d20800000000000000
+      internalID: 3255428920791209055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4038c5856a08d0900800000000000000
+      internalID: 652318972973974276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53b248cab6867b90800000000000000
+      internalID: -7244454813797010598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c799f211422568570800000000000000
+      internalID: 8468546464177428860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4055a08d38c33f60800000000000000
+      internalID: 8012968328499122251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0acfc10fc8d2650800000000000000
+      internalID: 6209774424120139994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a1bde8bc09cdbb0800000000000000
+      internalID: -4909890289791198602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c8b84b5821dd130800000000000000
+      internalID: 3593048443180518441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 214
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af74cce1195fd9d20800000000000000
+      internalID: 3287053306686097402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6e498fd7b43bb70800000000000000
+      internalID: 8913551091909846715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_31
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8984ca017a0a52b90800000000000000
+      internalID: -7267225784292718440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1736887a753b1940800000000000000
+      internalID: 5267862989264271130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712b230a55fb40410800000000000000
+      internalID: 1442488155146203671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7c402c0a7502f70800000000000000
+      internalID: 9160417990033065932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd14d0f17d3da05d0800000000000000
+      internalID: -3095428872971402789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_36
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04823d48c280a9d90800000000000000
+      internalID: -7090345676041410496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88c4ddbde1863ff0800000000000000
+      internalID: -56715087203481459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_38
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 214
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcdc5d228ca532d0800000000000000
+      internalID: -3299541476872233807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5455936f4aabf4140800000000000000
+      internalID: 4706185353293813061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_40
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d92bfe1dd0c4f80800000000000000
+      internalID: -8121100832735060609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3b0401ba693ca20800000000000000
+      internalID: 3081472231507801007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_42
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611228f342f9d67d0800000000000000
+      internalID: -2923505605060452074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_43
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf471031a023588f0800000000000000
+      internalID: -538969561550981892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4854ae3f7d30b6400800000000000000
+      internalID: 318352424704820612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a575cb3e95f91af70800000000000000
+      internalID: 9196807122488940378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 209
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c65db3baf4083da0800000000000000
+      internalID: -5965012231648356666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_47
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d9668d3a88d4c80800000000000000
+      internalID: -8336857097901269655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfb62bf7bff2d840800000000000000
+      internalID: 5247537681497767898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_49
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5866da1340309030800000000000000
+      internalID: 3499349975238076510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_50
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a11180df5221b70800000000000000
+      internalID: 8868192384938220059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_51
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a50609be24174d0800000000000000
+      internalID: -3138653885793543655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_52
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a20703262fe91b0800000000000000
+      internalID: -5647810379142649336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_53
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 209
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acd5a370bbd179f0800000000000000
+      internalID: -472354934996214620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_54
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8082e91d2ec5d73e0800000000000000
+      internalID: -2054383725761910776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_55
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1c7b9ea1cc26d00800000000000000
+      internalID: 964557686173057500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_56
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063e8d555a4c5ab00800000000000000
+      internalID: 839293119963390816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_57
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9b8151fc0a98f10800000000000000
+      internalID: 2272524298257742252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_58
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cf613e9ea5098c0800000000000000
+      internalID: -3994592908893815762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_59
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e39315d9e9f23a0800000000000000
+      internalID: -6687952523112137157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_60
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22a832e7b32adf50800000000000000
+      internalID: 6906872251207426606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_61
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaf763e2d12c3580800000000000000
+      internalID: -8846158378420405540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_62
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e2a9d84472a50b0800000000000000
+      internalID: -5739231599743324647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_63
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d03e124f6900850800000000000000
+      internalID: 6341234250622373267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_64
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 209
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f35bc51b760a9c0800000000000000
+      internalID: -3918017664350077107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_65
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1130e64c2ea94d5f0800000000000000
+      internalID: -732790540605717743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_66
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0948102efca80a50800000000000000
+      internalID: 6487625470687332618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_67
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15a042cecee6b5c0800000000000000
+      internalID: -4199907030686718690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_68
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84a29e3817c2ea90800000000000000
+      internalID: -7286042340189100914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_69
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6721b0c82556ea2a0800000000000000
+      internalID: -6724325788406312330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_70
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dc52c211f474000800000000000000
+      internalID: 20071658520169810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_71
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1abdc718f51644f0800000000000000
+      internalID: -844963724789958116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_72
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb0b1be0ec16240800000000000000
+      internalID: 4783330841750191098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_73
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a2dcdefe8385a0800000000000000
+      internalID: -6520210610224716672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_74
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579881f8808d21db0800000000000000
+      internalID: -4822554719688291979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_75
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a144e0a3596493020800000000000000
+      internalID: 2321964689624286234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_76
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c6637bcdf1b2bc0800000000000000
+      internalID: -3806914027184559004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_77
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211a6d6672ca9a360800000000000000
+      internalID: 7181460366048010514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_78
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70de46d819e057d90800000000000000
+      internalID: -7100753219174470393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_79
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5082a16337a43be50800000000000000
+      internalID: 6823879719085811717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_80
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a6cfe39d7e98520800000000000000
+      internalID: 2704947971463342615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_81
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d5fe09513869490800000000000000
+      internalID: -7739854780940460698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_82
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e56e436e2a5e7c0800000000000000
+      internalID: -4042645980881461661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_83
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3752d3d14f8aa6d40800000000000000
+      internalID: 5578456854867813747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_84
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c2e8d460c54ed00800000000000000
+      internalID: 1001026199323814974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_85
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13de324b3685db320800000000000000
+      internalID: 2575311747173051697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_86
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9441c7dffd3f225f0800000000000000
+      internalID: -782795241853021111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_87
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc79b444a65c8c3a0800000000000000
+      internalID: -6644844189982156849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_88
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28898a56ecf16140800000000000000
+      internalID: 4711324751497889837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_89
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3387d58b9b16a7a80800000000000000
+      internalID: -8468348699026819021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_90
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 214
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c84d7a11870253d0800000000000000
+      internalID: -3219502532539889463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_91
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 214
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae6d91bb9ef0c080800000000000000
+      internalID: -9169048896673059161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_92
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc7b720e012b4340800000000000000
+      internalID: 4849005767849376950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_93
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5c3c570a2469e80800000000000000
+      internalID: -8172271216879221260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_94
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1634ee6d127e47d40800000000000000
+      internalID: 5581339970744763233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_95
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d60389a07296be70800000000000000
+      internalID: 9130646307118188244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_96
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6229fbc8e96d17b00800000000000000
+      internalID: 824676183240053286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_97
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ac4962b29ce0790800000000000000
+      internalID: -7561885537140422092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_98
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37eea197f5805f10800000000000000
+      internalID: 2256450711660193596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_99
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b005e2e56810fa0800000000000000
+      internalID: -5836235903033406713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_100
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d28ac26d149f6520800000000000000
+      internalID: 2697537555750617816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_101
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcdd9fbdd37b0210800000000000000
+      internalID: 1300260313666280668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_102
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 214
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b276746c4289d80800000000000000
+      internalID: -8243798683881624748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_103
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 214
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd29f0d075903f870800000000000000
+      internalID: 8715319973377970907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_104
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dce881c4548abb70800000000000000
+      internalID: 8915583911892413657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_105
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 209
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b625f4f18cfea610800000000000000
+      internalID: 1634521349872756408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_106
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2460b69688c92c330800000000000000
+      internalID: 3729715551114298946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_107
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd90d6ca57f205440800000000000000
+      internalID: 4922486575166458335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_108
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593fac8627adb6de0800000000000000
+      internalID: -1338736279293332587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_109
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4e435088bfa3570800000000000000
+      internalID: 8447340612708263091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_110
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 214
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b16c7274eaafbd0800000000000000
+      internalID: -2595570614592464097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_111
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 214
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d88f570b9585540800000000000000
+      internalID: 4996842400995904864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_112
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c81d7d74187900c0800000000000000
+      internalID: -4609020714236962618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_113
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5766b21c91a366800800000000000000
+      internalID: 605235082217350773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_114
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 209
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001bbb2993ea0e720800000000000000
+      internalID: 2873488124560519424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_115
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94807ebef1d7325f0800000000000000
+      internalID: -782644334177089463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_116
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c682afb492948f7f0800000000000000
+      internalID: -578632110399936404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_117
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccf42d7c8913ef50800000000000000
+      internalID: 6909394344502164686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_118
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ccb825c590a42e0800000000000000
+      internalID: -2140888380734714821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_119
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25a87c1e0fce09f0800000000000000
+      internalID: -500234849077385939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_120
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc2f005b3b9e0d20800000000000000
+      internalID: 3246703060429253873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_121
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 163
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beed69304e73b3a10800000000000000
+      internalID: 1890165921064345323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_122
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e53529106c310b60800000000000000
+      internalID: 7710510420471395809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_123
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adc980129835be70800000000000000
+      internalID: 9130266019557395874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_124
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2ededc3cddd770800000000000000
+      internalID: 8637301814361729900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e62028c70626df40800000000000000
+      internalID: 5752827388876564194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_126
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 168
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e69d56a875038c90800000000000000
+      internalID: -7168880166098331931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_127
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a04aa6aad5eba140800000000000000
+      internalID: 4732128560744644775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_128
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 168
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cce2eb11ac2ccc30800000000000000
+      internalID: 4380925607993863367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_129
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6088375b217acf5d0800000000000000
+      internalID: -3027361150704318458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_130
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c2231604a5d3f0800000000000000
+      internalID: -876614206455888665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_131
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c5c990d6fee0510800000000000000
+      internalID: 1517413376062151812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_132
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154600e7da8c1b4b0800000000000000
+      internalID: -5426335428535884719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c069759fa2c15d90800000000000000
+      internalID: -7110688277258477371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_134
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e8db181d2695c20800000000000000
+      internalID: 3195694062560448009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_135
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1547c7c4e6748640800000000000000
+      internalID: 5081317004557108508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_136
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d8be6f379159590800000000000000
+      internalID: -7668194804673835667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_137
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 168
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c15f19c349d97ce0800000000000000
+      internalID: -1406854523416260151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_138
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128f135e636c46780800000000000000
+      internalID: -8690603441842423775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_139
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 163
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd951798d3a405ec0800000000000000
+      internalID: -3580280075600176676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_140
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc8bac95f9b25a50800000000000000
+      internalID: 6508468876050402489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_141
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c510ae3438e0c3180800000000000000
+      internalID: -9134409987271294628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_142
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 168
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f640d0cf3419620a0800000000000000
+      internalID: -6906673257348529041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_143
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 168
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3045387a0b83270800000000000000
+      internalID: 8230522552528929754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_144
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa11251ddc9aa710800000000000000
+      internalID: 1705347882269350566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_145
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868457d8dc6f69460800000000000000
+      internalID: 7248252013001394280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_146
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 168
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e375280d224cc30800000000000000
+      internalID: 4378663016646262318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_147
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bf05610a2c19830800000000000000
+      internalID: 4076253130571971375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_148
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 168
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480167df5b73dbc10800000000000000
+      internalID: 2070872658441277572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_149
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52d91d8479eacb50800000000000000
+      internalID: 6614355689539752540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_150
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4265e7a074a5f99d0800000000000000
+      internalID: -2765392385016965596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_151
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 168
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd68e203513e14580800000000000000
+      internalID: -8844538513036769573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_152
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 168
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97c2cec65b093b50800000000000000
+      internalID: 6573297598587914142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_153
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a36b319930a1520800000000000000
+      internalID: 2673453284793399890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_154
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a8909d080e49a10800000000000000
+      internalID: 1915402585541020173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_155
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 168
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e9549a37bb45190800000000000000
+      internalID: -7974542934730760636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_156
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cec56951b041eb0800000000000000
+      internalID: -4750159519624139672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvestingChapter1_157
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 168
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc16ffee9b418c00800000000000000
+      internalID: 901084546453609676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InvestingChapter1_0: 3596260788665828967
+      InvestingChapter1_1: 7596462078512480481
+      InvestingChapter1_10: 479123850474181819
+      InvestingChapter1_100: 2697537555750617816
+      InvestingChapter1_101: 1300260313666280668
+      InvestingChapter1_102: -8243798683881624748
+      InvestingChapter1_103: 8715319973377970907
+      InvestingChapter1_104: 8915583911892413657
+      InvestingChapter1_105: 1634521349872756408
+      InvestingChapter1_106: 3729715551114298946
+      InvestingChapter1_107: 4922486575166458335
+      InvestingChapter1_108: -1338736279293332587
+      InvestingChapter1_109: 8447340612708263091
+      InvestingChapter1_11: 7839281927953150115
+      InvestingChapter1_110: -2595570614592464097
+      InvestingChapter1_111: 4996842400995904864
+      InvestingChapter1_112: -4609020714236962618
+      InvestingChapter1_113: 605235082217350773
+      InvestingChapter1_114: 2873488124560519424
+      InvestingChapter1_115: -782644334177089463
+      InvestingChapter1_116: -578632110399936404
+      InvestingChapter1_117: 6909394344502164686
+      InvestingChapter1_118: -2140888380734714821
+      InvestingChapter1_119: -500234849077385939
+      InvestingChapter1_12: 5267263696587037456
+      InvestingChapter1_120: 3246703060429253873
+      InvestingChapter1_121: 1890165921064345323
+      InvestingChapter1_122: 7710510420471395809
+      InvestingChapter1_123: 9130266019557395874
+      InvestingChapter1_124: 8637301814361729900
+      InvestingChapter1_125: 5752827388876564194
+      InvestingChapter1_126: -7168880166098331931
+      InvestingChapter1_127: 4732128560744644775
+      InvestingChapter1_128: 4380925607993863367
+      InvestingChapter1_129: -3027361150704318458
+      InvestingChapter1_13: -3405711720346550051
+      InvestingChapter1_130: -876614206455888665
+      InvestingChapter1_131: 1517413376062151812
+      InvestingChapter1_132: -5426335428535884719
+      InvestingChapter1_133: -7110688277258477371
+      InvestingChapter1_134: 3195694062560448009
+      InvestingChapter1_135: 5081317004557108508
+      InvestingChapter1_136: -7668194804673835667
+      InvestingChapter1_137: -1406854523416260151
+      InvestingChapter1_138: -8690603441842423775
+      InvestingChapter1_139: -3580280075600176676
+      InvestingChapter1_14: -1006480475310369238
+      InvestingChapter1_140: 6508468876050402489
+      InvestingChapter1_141: -9134409987271294628
+      InvestingChapter1_142: -6906673257348529041
+      InvestingChapter1_143: 8230522552528929754
+      InvestingChapter1_144: 1705347882269350566
+      InvestingChapter1_145: 7248252013001394280
+      InvestingChapter1_146: 4378663016646262318
+      InvestingChapter1_147: 4076253130571971375
+      InvestingChapter1_148: 2070872658441277572
+      InvestingChapter1_149: 6614355689539752540
+      InvestingChapter1_15: -6055846325586650932
+      InvestingChapter1_150: -2765392385016965596
+      InvestingChapter1_151: -8844538513036769573
+      InvestingChapter1_152: 6573297598587914142
+      InvestingChapter1_153: 2673453284793399890
+      InvestingChapter1_154: 1915402585541020173
+      InvestingChapter1_155: -7974542934730760636
+      InvestingChapter1_156: -4750159519624139672
+      InvestingChapter1_157: 901084546453609676
+      InvestingChapter1_16: 1733745047922411165
+      InvestingChapter1_17: 2909422136300480292
+      InvestingChapter1_18: -4199996664514081358
+      InvestingChapter1_19: 8865018953075429268
+      InvestingChapter1_2: 1351217396849809828
+      InvestingChapter1_20: -6845546408554731561
+      InvestingChapter1_21: 3255428920791209055
+      InvestingChapter1_22: 652318972973974276
+      InvestingChapter1_23: -7244454813797010598
+      InvestingChapter1_24: 8468546464177428860
+      InvestingChapter1_25: 8012968328499122251
+      InvestingChapter1_26: 6209774424120139994
+      InvestingChapter1_27: -4909890289791198602
+      InvestingChapter1_28: 3593048443180518441
+      InvestingChapter1_29: 3287053306686097402
+      InvestingChapter1_3: -5621601610447341858
+      InvestingChapter1_30: 8913551091909846715
+      InvestingChapter1_31: -7267225784292718440
+      InvestingChapter1_32: 5267862989264271130
+      InvestingChapter1_33: 1442488155146203671
+      InvestingChapter1_34: 9160417990033065932
+      InvestingChapter1_35: -3095428872971402789
+      InvestingChapter1_36: -7090345676041410496
+      InvestingChapter1_37: -56715087203481459
+      InvestingChapter1_38: -3299541476872233807
+      InvestingChapter1_39: 4706185353293813061
+      InvestingChapter1_4: -785733470026433605
+      InvestingChapter1_40: -8121100832735060609
+      InvestingChapter1_41: 3081472231507801007
+      InvestingChapter1_42: -2923505605060452074
+      InvestingChapter1_43: -538969561550981892
+      InvestingChapter1_44: 318352424704820612
+      InvestingChapter1_45: 9196807122488940378
+      InvestingChapter1_46: -5965012231648356666
+      InvestingChapter1_47: -8336857097901269655
+      InvestingChapter1_48: 5247537681497767898
+      InvestingChapter1_49: 3499349975238076510
+      InvestingChapter1_5: -507281849862976117
+      InvestingChapter1_50: 8868192384938220059
+      InvestingChapter1_51: -3138653885793543655
+      InvestingChapter1_52: -5647810379142649336
+      InvestingChapter1_53: -472354934996214620
+      InvestingChapter1_54: -2054383725761910776
+      InvestingChapter1_55: 964557686173057500
+      InvestingChapter1_56: 839293119963390816
+      InvestingChapter1_57: 2272524298257742252
+      InvestingChapter1_58: -3994592908893815762
+      InvestingChapter1_59: -6687952523112137157
+      InvestingChapter1_6: -7565495305059105923
+      InvestingChapter1_60: 6906872251207426606
+      InvestingChapter1_61: -8846158378420405540
+      InvestingChapter1_62: -5739231599743324647
+      InvestingChapter1_63: 6341234250622373267
+      InvestingChapter1_64: -3918017664350077107
+      InvestingChapter1_65: -732790540605717743
+      InvestingChapter1_66: 6487625470687332618
+      InvestingChapter1_67: -4199907030686718690
+      InvestingChapter1_68: -7286042340189100914
+      InvestingChapter1_69: -6724325788406312330
+      InvestingChapter1_7: -2399816860699625936
+      InvestingChapter1_70: 20071658520169810
+      InvestingChapter1_71: -844963724789958116
+      InvestingChapter1_72: 4783330841750191098
+      InvestingChapter1_73: -6520210610224716672
+      InvestingChapter1_74: -4822554719688291979
+      InvestingChapter1_75: 2321964689624286234
+      InvestingChapter1_76: -3806914027184559004
+      InvestingChapter1_77: 7181460366048010514
+      InvestingChapter1_78: -7100753219174470393
+      InvestingChapter1_79: 6823879719085811717
+      InvestingChapter1_8: 930044642000531230
+      InvestingChapter1_80: 2704947971463342615
+      InvestingChapter1_81: -7739854780940460698
+      InvestingChapter1_82: -4042645980881461661
+      InvestingChapter1_83: 5578456854867813747
+      InvestingChapter1_84: 1001026199323814974
+      InvestingChapter1_85: 2575311747173051697
+      InvestingChapter1_86: -782795241853021111
+      InvestingChapter1_87: -6644844189982156849
+      InvestingChapter1_88: 4711324751497889837
+      InvestingChapter1_89: -8468348699026819021
+      InvestingChapter1_9: 2455655473690513920
+      InvestingChapter1_90: -3219502532539889463
+      InvestingChapter1_91: -9169048896673059161
+      InvestingChapter1_92: 4849005767849376950
+      InvestingChapter1_93: -8172271216879221260
+      InvestingChapter1_94: 5581339970744763233
+      InvestingChapter1_95: 9130646307118188244
+      InvestingChapter1_96: 824676183240053286
+      InvestingChapter1_97: -7561885537140422092
+      InvestingChapter1_98: 2256450711660193596
+      InvestingChapter1_99: -5836235903033406713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

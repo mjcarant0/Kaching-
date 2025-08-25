@@ -1,0 +1,4251 @@
+fileFormatVersion: 2
+guid: 7a9054e7c0d78fa40a54ea5a8dbb8991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3206431949159417316
+    second: BudgetingChapter1_0
+  - first:
+      213: -462664278127095152
+    second: BudgetingChapter1_1
+  - first:
+      213: 684158580189379228
+    second: BudgetingChapter1_2
+  - first:
+      213: 6871678169860384146
+    second: BudgetingChapter1_3
+  - first:
+      213: 2165250072504682292
+    second: BudgetingChapter1_4
+  - first:
+      213: 5643300429617878433
+    second: BudgetingChapter1_5
+  - first:
+      213: 1454819039631021945
+    second: BudgetingChapter1_6
+  - first:
+      213: 5624430604999205859
+    second: BudgetingChapter1_7
+  - first:
+      213: 9145569048736069513
+    second: BudgetingChapter1_8
+  - first:
+      213: -583212484498470152
+    second: BudgetingChapter1_9
+  - first:
+      213: -8272105573708321344
+    second: BudgetingChapter1_10
+  - first:
+      213: -1307870435728503273
+    second: BudgetingChapter1_11
+  - first:
+      213: 446473204546319378
+    second: BudgetingChapter1_12
+  - first:
+      213: -5189113932729825620
+    second: BudgetingChapter1_13
+  - first:
+      213: 4309158733857206012
+    second: BudgetingChapter1_14
+  - first:
+      213: -3569058094821673028
+    second: BudgetingChapter1_15
+  - first:
+      213: -8242257346255493252
+    second: BudgetingChapter1_16
+  - first:
+      213: -7854491193194902928
+    second: BudgetingChapter1_17
+  - first:
+      213: -5026468115701428801
+    second: BudgetingChapter1_18
+  - first:
+      213: -1741191935344652698
+    second: BudgetingChapter1_19
+  - first:
+      213: 1358501388993924139
+    second: BudgetingChapter1_20
+  - first:
+      213: -9079362384173816579
+    second: BudgetingChapter1_21
+  - first:
+      213: 4452945855433256521
+    second: BudgetingChapter1_22
+  - first:
+      213: -3998531876786225128
+    second: BudgetingChapter1_23
+  - first:
+      213: -2429908823822776503
+    second: BudgetingChapter1_24
+  - first:
+      213: -4737542043401790809
+    second: BudgetingChapter1_25
+  - first:
+      213: -3474683272783277804
+    second: BudgetingChapter1_26
+  - first:
+      213: -2110700730264704254
+    second: BudgetingChapter1_27
+  - first:
+      213: -3601920325565251289
+    second: BudgetingChapter1_28
+  - first:
+      213: -5890394839508199018
+    second: BudgetingChapter1_29
+  - first:
+      213: -4806164589636090659
+    second: BudgetingChapter1_30
+  - first:
+      213: 4203996973055289505
+    second: BudgetingChapter1_31
+  - first:
+      213: -3920365784099949702
+    second: BudgetingChapter1_32
+  - first:
+      213: 6206340886481128290
+    second: BudgetingChapter1_33
+  - first:
+      213: 4938404092944722332
+    second: BudgetingChapter1_34
+  - first:
+      213: -1421512075482980133
+    second: BudgetingChapter1_35
+  - first:
+      213: -2729546938612599217
+    second: BudgetingChapter1_36
+  - first:
+      213: 4420690023334143287
+    second: BudgetingChapter1_37
+  - first:
+      213: -6449573483224133157
+    second: BudgetingChapter1_38
+  - first:
+      213: 5408783104263644543
+    second: BudgetingChapter1_39
+  - first:
+      213: -5902544803795085347
+    second: BudgetingChapter1_40
+  - first:
+      213: -699958619851313665
+    second: BudgetingChapter1_41
+  - first:
+      213: -6312844572092481441
+    second: BudgetingChapter1_42
+  - first:
+      213: -1087500845714938942
+    second: BudgetingChapter1_43
+  - first:
+      213: 4216763549244348541
+    second: BudgetingChapter1_44
+  - first:
+      213: -3825267284234985591
+    second: BudgetingChapter1_45
+  - first:
+      213: 8056783903247855355
+    second: BudgetingChapter1_46
+  - first:
+      213: -1127532367298520746
+    second: BudgetingChapter1_47
+  - first:
+      213: 7094464516291949672
+    second: BudgetingChapter1_48
+  - first:
+      213: -2291671225528612251
+    second: BudgetingChapter1_49
+  - first:
+      213: -7660512912293204696
+    second: BudgetingChapter1_50
+  - first:
+      213: -1507260130676032145
+    second: BudgetingChapter1_51
+  - first:
+      213: -5116234897057706848
+    second: BudgetingChapter1_52
+  - first:
+      213: -4341409593617166377
+    second: BudgetingChapter1_53
+  - first:
+      213: 3590134551549961203
+    second: BudgetingChapter1_54
+  - first:
+      213: -8711380114899698681
+    second: BudgetingChapter1_55
+  - first:
+      213: 5788296624016059453
+    second: BudgetingChapter1_56
+  - first:
+      213: -229047102314547528
+    second: BudgetingChapter1_57
+  - first:
+      213: -8934192255295700770
+    second: BudgetingChapter1_58
+  - first:
+      213: 8831746706691647455
+    second: BudgetingChapter1_59
+  - first:
+      213: -6594668640788653293
+    second: BudgetingChapter1_60
+  - first:
+      213: -4759588366647894449
+    second: BudgetingChapter1_61
+  - first:
+      213: -5851119143630020137
+    second: BudgetingChapter1_62
+  - first:
+      213: 8569578515607743948
+    second: BudgetingChapter1_63
+  - first:
+      213: -7268616876988253379
+    second: BudgetingChapter1_64
+  - first:
+      213: 7292577685406401779
+    second: BudgetingChapter1_65
+  - first:
+      213: -8894926194288402914
+    second: BudgetingChapter1_66
+  - first:
+      213: 709421450908206503
+    second: BudgetingChapter1_67
+  - first:
+      213: 6805380774535954990
+    second: BudgetingChapter1_68
+  - first:
+      213: -469043433067734801
+    second: BudgetingChapter1_69
+  - first:
+      213: -639956712402887239
+    second: BudgetingChapter1_70
+  - first:
+      213: 3147026749032208381
+    second: BudgetingChapter1_71
+  - first:
+      213: -2065252509258396540
+    second: BudgetingChapter1_72
+  - first:
+      213: -3740001003351294902
+    second: BudgetingChapter1_73
+  - first:
+      213: 2348079618165526206
+    second: BudgetingChapter1_74
+  - first:
+      213: 6889343281338494272
+    second: BudgetingChapter1_75
+  - first:
+      213: -4825652982827579199
+    second: BudgetingChapter1_76
+  - first:
+      213: 1629395222653779959
+    second: BudgetingChapter1_77
+  - first:
+      213: -2119468333391098343
+    second: BudgetingChapter1_78
+  - first:
+      213: 8011836458321308332
+    second: BudgetingChapter1_79
+  - first:
+      213: 4607435354549898497
+    second: BudgetingChapter1_80
+  - first:
+      213: -5025717571945456318
+    second: BudgetingChapter1_81
+  - first:
+      213: 1352304710830947414
+    second: BudgetingChapter1_82
+  - first:
+      213: -9173024333632414915
+    second: BudgetingChapter1_83
+  - first:
+      213: -2955654665369342392
+    second: BudgetingChapter1_84
+  - first:
+      213: -5680345626075909892
+    second: BudgetingChapter1_85
+  - first:
+      213: 6776026107065257237
+    second: BudgetingChapter1_86
+  - first:
+      213: -4749592290316717604
+    second: BudgetingChapter1_87
+  - first:
+      213: 2451678776927072787
+    second: BudgetingChapter1_88
+  - first:
+      213: -2003465387973040845
+    second: BudgetingChapter1_89
+  - first:
+      213: -5275653480923450547
+    second: BudgetingChapter1_90
+  - first:
+      213: -6730016012766641786
+    second: BudgetingChapter1_91
+  - first:
+      213: 8947474635457241422
+    second: BudgetingChapter1_92
+  - first:
+      213: -2448025854307542553
+    second: BudgetingChapter1_93
+  - first:
+      213: -6127254560125333601
+    second: BudgetingChapter1_94
+  - first:
+      213: -6931434486978356749
+    second: BudgetingChapter1_95
+  - first:
+      213: -2242036123943189495
+    second: BudgetingChapter1_96
+  - first:
+      213: 976005285758329103
+    second: BudgetingChapter1_97
+  - first:
+      213: 970688721014451468
+    second: BudgetingChapter1_98
+  - first:
+      213: 2996226321747471074
+    second: BudgetingChapter1_99
+  - first:
+      213: -2033633329334916024
+    second: BudgetingChapter1_100
+  - first:
+      213: -1923373177039257547
+    second: BudgetingChapter1_101
+  - first:
+      213: -2446286225441711144
+    second: BudgetingChapter1_102
+  - first:
+      213: -5129411742486565305
+    second: BudgetingChapter1_103
+  - first:
+      213: 8202810426069866698
+    second: BudgetingChapter1_104
+  - first:
+      213: -4320021152174046767
+    second: BudgetingChapter1_105
+  - first:
+      213: 8619674457316716916
+    second: BudgetingChapter1_106
+  - first:
+      213: -2446846596617812426
+    second: BudgetingChapter1_107
+  - first:
+      213: 1011188443116065903
+    second: BudgetingChapter1_108
+  - first:
+      213: 9182167907940181425
+    second: BudgetingChapter1_109
+  - first:
+      213: -7228963357544427669
+    second: BudgetingChapter1_110
+  - first:
+      213: 3222513341261096865
+    second: BudgetingChapter1_111
+  - first:
+      213: -8643256516253281675
+    second: BudgetingChapter1_112
+  - first:
+      213: 265842342714571050
+    second: BudgetingChapter1_113
+  - first:
+      213: -2993010143975454675
+    second: BudgetingChapter1_114
+  - first:
+      213: 1449796751604087911
+    second: BudgetingChapter1_115
+  - first:
+      213: -6626542552238798814
+    second: BudgetingChapter1_116
+  - first:
+      213: -5127507859865081753
+    second: BudgetingChapter1_117
+  - first:
+      213: 6468735990844594403
+    second: BudgetingChapter1_118
+  - first:
+      213: -8822698733668881068
+    second: BudgetingChapter1_119
+  - first:
+      213: 4817786708534199087
+    second: BudgetingChapter1_120
+  - first:
+      213: 1661927166484983989
+    second: BudgetingChapter1_121
+  - first:
+      213: 5537512880589033681
+    second: BudgetingChapter1_122
+  - first:
+      213: 5407971755417930266
+    second: BudgetingChapter1_123
+  - first:
+      213: 55142681760322200
+    second: BudgetingChapter1_124
+  - first:
+      213: -1695547676103806953
+    second: BudgetingChapter1_125
+  - first:
+      213: -4982621432945341602
+    second: BudgetingChapter1_126
+  - first:
+      213: 6240623392200936203
+    second: BudgetingChapter1_127
+  - first:
+      213: 7225274980230351570
+    second: BudgetingChapter1_128
+  - first:
+      213: 7544881997174080937
+    second: BudgetingChapter1_129
+  - first:
+      213: 1287505864448371501
+    second: BudgetingChapter1_130
+  - first:
+      213: -7046258241336874789
+    second: BudgetingChapter1_131
+  - first:
+      213: 4285772004023302611
+    second: BudgetingChapter1_132
+  - first:
+      213: -3368354123830307494
+    second: BudgetingChapter1_133
+  - first:
+      213: 4126983993515532762
+    second: BudgetingChapter1_134
+  - first:
+      213: 2515702902668736931
+    second: BudgetingChapter1_135
+  - first:
+      213: -8812333550920710225
+    second: BudgetingChapter1_136
+  - first:
+      213: -2954298485159269849
+    second: BudgetingChapter1_137
+  - first:
+      213: 4490821557591154737
+    second: BudgetingChapter1_138
+  - first:
+      213: -4161268417788193776
+    second: BudgetingChapter1_139
+  - first:
+      213: 6654874563480102576
+    second: BudgetingChapter1_140
+  - first:
+      213: -5601240629032063110
+    second: BudgetingChapter1_141
+  - first:
+      213: -2429357439416654537
+    second: BudgetingChapter1_142
+  - first:
+      213: -5030957481050528957
+    second: BudgetingChapter1_143
+  - first:
+      213: 4433401551335930419
+    second: BudgetingChapter1_144
+  - first:
+      213: -6639843387472665948
+    second: BudgetingChapter1_145
+  - first:
+      213: 6849668524477950576
+    second: BudgetingChapter1_146
+  - first:
+      213: -7272870389649169052
+    second: BudgetingChapter1_147
+  - first:
+      213: 874041142852849334
+    second: BudgetingChapter1_148
+  - first:
+      213: -8424391440769084767
+    second: BudgetingChapter1_149
+  - first:
+      213: 6218179160737354155
+    second: BudgetingChapter1_150
+  - first:
+      213: 2044809810343880583
+    second: BudgetingChapter1_151
+  - first:
+      213: 6018245465815089422
+    second: BudgetingChapter1_152
+  - first:
+      213: 3584229323866856037
+    second: BudgetingChapter1_153
+  - first:
+      213: 7744778480461762493
+    second: BudgetingChapter1_154
+  - first:
+      213: -4602680495542049041
+    second: BudgetingChapter1_155
+  - first:
+      213: -8379000240255075182
+    second: BudgetingChapter1_156
+  - first:
+      213: 5961364918960486503
+    second: BudgetingChapter1_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BudgetingChapter1_0
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e54c1e8ed88f7c20800000000000000
+      internalID: 3206431949159417316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d8f35a494499f0800000000000000
+      internalID: -462664278127095152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a39369a9e9e7900800000000000000
+      internalID: 684158580189379228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295a55543ea1d5f50800000000000000
+      internalID: 6871678169860384146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 343
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437c78d08738c0e10800000000000000
+      internalID: 2165250072504682292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5de2c57d7015e40800000000000000
+      internalID: 5643300429617878433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 343
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9779ea5653e803410800000000000000
+      internalID: 1454819039631021945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 343
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e320d2f5ddfd0e40800000000000000
+      internalID: 5624430604999205859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_8
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 373
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98778b238969bee70800000000000000
+      internalID: 9145569048736069513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_9
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 351
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa45e8d55308e7f0800000000000000
+      internalID: -583212484498470152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 273
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd2696eec3933d80800000000000000
+      internalID: -8272105573708321344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 308
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eca22a4c289dde0800000000000000
+      internalID: -1307870435728503273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 273
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214b6b69301323600800000000000000
+      internalID: 446473204546319378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_13
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 273
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6cb9c0f509cf7b0800000000000000
+      internalID: -5189113932729825620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_14
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 273
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfea45c99053dcb30800000000000000
+      internalID: 4309158733857206012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_15
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 273
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7fb6b8298287ec0800000000000000
+      internalID: -3569058094821673028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_16
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 273
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c776619ec9e9d9d80800000000000000
+      internalID: -8242257346255493252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_17
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 273
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a0f2aefdd3ff290800000000000000
+      internalID: -7854491193194902928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_18
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd0ac051e56e3ab0800000000000000
+      internalID: -5026468115701428801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ec108f82b06d7e0800000000000000
+      internalID: -1741191935344652698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_20
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c8bddc0dd5ad210800000000000000
+      internalID: 1358501388993924139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_21
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 273
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4a6402400aff180800000000000000
+      internalID: -9079362384173816579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_22
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 273
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ea52da9aa0ccd30800000000000000
+      internalID: 4452945855433256521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_23
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810c415717c5288c0800000000000000
+      internalID: -3998531876786225128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_24
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 273
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947c4778cca374ed0800000000000000
+      internalID: -2429908823822776503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aade82bc9ed04eb0800000000000000
+      internalID: -4737542043401790809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411d2ca19f177cfc0800000000000000
+      internalID: -3474683272783277804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b2a696ed845b2e0800000000000000
+      internalID: -2110700730264704254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7218c653c88630ec0800000000000000
+      internalID: -3601920325565251289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699d1542a1d114ea0800000000000000
+      internalID: -5890394839508199018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd40ea615c21d4db0800000000000000
+      internalID: -4806164589636090659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_31
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a827c729f8975a30800000000000000
+      internalID: 4203996973055289505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73702127101899c0800000000000000
+      internalID: -3920365784099949702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc0b5572a512650800000000000000
+      internalID: 6206340886481128290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c992e459b5cb88440800000000000000
+      internalID: 4938404092944722332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0a8e08c46c54ce0800000000000000
+      internalID: -1421512075482980133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46bd366583be1ad0800000000000000
+      internalID: -2729546938612599217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735e1f68722795d30800000000000000
+      internalID: 4420690023334143287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd195ab96138e76a0800000000000000
+      internalID: -6449573483224133157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75e4cc839bdf0b40800000000000000
+      internalID: 5408783104263644543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd757f226c2f51ea0800000000000000
+      internalID: -5902544803795085347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd2a42085f3946f0800000000000000
+      internalID: -699958619851313665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50cc2efe454468a0800000000000000
+      internalID: -6312844572092481441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3693e1ebb68e0f0800000000000000
+      internalID: -1087500845714938942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_44
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 214
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78568e4b14f48a30800000000000000
+      internalID: 4216763549244348541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_45
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 214
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f10401cabe9eac0800000000000000
+      internalID: -3825267284234985591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_46
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe6c29f5427fcf60800000000000000
+      internalID: 8056783903247855355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6599a6e29433a50f0800000000000000
+      internalID: -1127532367298520746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 214
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864f135b3e9947260800000000000000
+      internalID: 7094464516291949672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_49
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a026489295230e0800000000000000
+      internalID: -2291671225528612251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_50
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d6879e71460b590800000000000000
+      internalID: -7660512912293204696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d32fe95e2251be0800000000000000
+      internalID: -1507260130676032145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 214
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac0b65d77b7ff8b0800000000000000
+      internalID: -5116234897057706848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_53
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 209
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfc9f3f9f630c3c0800000000000000
+      internalID: -4341409593617166377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_54
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 209
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3edf07a58b2d130800000000000000
+      internalID: 3590134551549961203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_55
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c700cb0f5fa1780800000000000000
+      internalID: -8711380114899698681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_56
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ce111ac19245050800000000000000
+      internalID: 5788296624016059453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_57
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b675bdbfd242dcf0800000000000000
+      internalID: -229047102314547528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_58
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0cd0caa7f530480800000000000000
+      internalID: -8934192255295700770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e49e46daa09a70800000000000000
+      internalID: 8831746706691647455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_60
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b526eafc70b74a0800000000000000
+      internalID: -6594668640788653293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_61
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eded0199b82fdb0800000000000000
+      internalID: -4759588366647894449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_62
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1e171b326accea0800000000000000
+      internalID: -5851119143630020137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_63
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd6e91a1424de670800000000000000
+      internalID: 8569578515607743948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_64
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bb4be067fa02b90800000000000000
+      internalID: -7268616876988253379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_65
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4c69364c0743560800000000000000
+      internalID: 7292577685406401779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_66
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e5f1ee0cfde8480800000000000000
+      internalID: -8894926194288402914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_67
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a50d690d0f58d900800000000000000
+      internalID: 709421450908206503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_68
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e220d7b02c1917e50800000000000000
+      internalID: 6805380774535954990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_69
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe894c39b7f9d79f0800000000000000
+      internalID: -469043433067734801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_70
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd599db2ca6e17f0800000000000000
+      internalID: -639956712402887239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_71
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df797b2972c7cab20800000000000000
+      internalID: 3147026749032208381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_72
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c4b26f8cfb653e0800000000000000
+      internalID: -2065252509258396540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_73
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c34af17e8d81cc0800000000000000
+      internalID: -3740001003351294902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_74
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 214
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe4719d8fd069020800000000000000
+      internalID: 2348079618165526206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_75
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04da7eb863ddb9f50800000000000000
+      internalID: 6889343281338494272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_76
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c80245fd26d70db0800000000000000
+      internalID: -4825652982827579199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_77
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff3ff47256cc9610800000000000000
+      internalID: 1629395222653779959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_78
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 214
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ec88bb7c22692e0800000000000000
+      internalID: -2119468333391098343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_79
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 214
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caae3c07fc2cf2f60800000000000000
+      internalID: 8011836458321308332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_80
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 214
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dc5813b06e0ff30800000000000000
+      internalID: 4607435354549898497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_81
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d90c6ee70114ab0800000000000000
+      internalID: -5025717571945456318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_82
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c7a2d38f954c210800000000000000
+      internalID: 1352304710830947414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_83
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b53d528fed2b080800000000000000
+      internalID: -9173024333632414915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_84
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e2fe7ddb76bf6d0800000000000000
+      internalID: -2955654665369342392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_85
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf03d44bfbb5b21b0800000000000000
+      internalID: -5680345626075909892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_86
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dc56ce7d7490e50800000000000000
+      internalID: 6776026107065257237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_87
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1fcb3f9fe061eb0800000000000000
+      internalID: -4749592290316717604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_88
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3123a1aabdc160220800000000000000
+      internalID: 2451678776927072787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_89
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335a31e28d24234e0800000000000000
+      internalID: -2003465387973040845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_90
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 214
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4331875c1d19c6b0800000000000000
+      internalID: -5275653480923450547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_91
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6818a52f71e2a92a0800000000000000
+      internalID: -6730016012766641786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_92
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 209
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e412f3376c0db2c70800000000000000
+      internalID: 8947474635457241422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_93
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9d609a47dd60ed0800000000000000
+      internalID: -2448025854307542553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_94
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f465fe07e97faa0800000000000000
+      internalID: -6127254560125333601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_95
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f953c3fe099ecf90800000000000000
+      internalID: -6931434486978356749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_96
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904c5ca2600b2e0e0800000000000000
+      internalID: -2242036123943189495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_97
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f016784e2a77b8d00800000000000000
+      internalID: 976005285758329103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_98
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d6b83bf34987d00800000000000000
+      internalID: 970688721014451468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_99
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaee6607fbb49920800000000000000
+      internalID: 2996226321747471074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_100
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce899f24517c3e0800000000000000
+      internalID: -2033633329334916024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_101
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5308f04394ece45e0800000000000000
+      internalID: -1923373177039257547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_102
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db9d9193ab0d0ed0800000000000000
+      internalID: -2446286225441711144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_103
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eee5e623ba0d8b0800000000000000
+      internalID: -5129411742486565305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_104
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8d3c54f9c36d170800000000000000
+      internalID: 8202810426069866698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_105
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 209
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d10e7a86a33c04c0800000000000000
+      internalID: -4320021152174046767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_106
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471fedbff3c3f9770800000000000000
+      internalID: 8619674457316716916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_107
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636c8bcfbfd0b0ed0800000000000000
+      internalID: -2446846596617812426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_108
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64d9e01886780e00800000000000000
+      internalID: 1011188443116065903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_109
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b524c4201d9d6f70800000000000000
+      internalID: 9182167907940181425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_110
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fcf3380209dab90800000000000000
+      internalID: -7228963357544427669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_111
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a723dd6fcaa8bc20800000000000000
+      internalID: 3222513341261096865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_112
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572942e0efbfc0880800000000000000
+      internalID: -8643256516253281675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_113
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2972c3c33670b300800000000000000
+      internalID: 265842342714571050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_114
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 214
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28c337b121b676d0800000000000000
+      internalID: -2993010143975454675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_115
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c70e7d676be1410800000000000000
+      internalID: 1449796751604087911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_116
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 214
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228cbcc58aac904a0800000000000000
+      internalID: -6626542552238798814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_117
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768e7b5a4ce67d8b0800000000000000
+      internalID: -5127507859865081753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_118
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e893106c1195c950800000000000000
+      internalID: 6468735990844594403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_119
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45da0631f3a7f8580800000000000000
+      internalID: -8822698733668881068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_120
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2387c55c773cd240800000000000000
+      internalID: 4817786708534199087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_121
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0b8e0e3f9501710800000000000000
+      internalID: 1661927166484983989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_122
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0d8aa30a239dc40800000000000000
+      internalID: 5537512880589033681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_123
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a080da8a9fc0b40800000000000000
+      internalID: 5407971755417930266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_124
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89259461af7e3c000800000000000000
+      internalID: 55142681760322200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_125
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 209
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710f71a3f543878e0800000000000000
+      internalID: -1695547676103806953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_126
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b8b0fa43c2adab0800000000000000
+      internalID: -4982621432945341602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_127
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b412539e52b9650800000000000000
+      internalID: 6240623392200936203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_128
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 214
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dac5293055554460800000000000000
+      internalID: 7225274980230351570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_129
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a50dc1b33ec4b860800000000000000
+      internalID: 7544881997174080937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_130
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 168
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b6da023c32ed110800000000000000
+      internalID: 1287505864448371501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_131
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd862715679a63e90800000000000000
+      internalID: -7046258241336874789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_132
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 168
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d97f104eee1a7b30800000000000000
+      internalID: 4285772004023302611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a555f5b45c33141d0800000000000000
+      internalID: -3368354123830307494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_134
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1673f831ef54930800000000000000
+      internalID: 4126983993515532762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_135
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 163
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a93df1167299e220800000000000000
+      internalID: 2515702902668736931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_136
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa74d1f335d44b580800000000000000
+      internalID: -8812333550920710225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_137
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a6b972e293007d0800000000000000
+      internalID: -2954298485159269849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_138
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 168
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13023e9c96a925e30800000000000000
+      internalID: 4490821557591154737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_139
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 168
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014deaedb643046c0800000000000000
+      internalID: -4161268417788193776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_140
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6a30d082dda5c50800000000000000
+      internalID: 6654874563480102576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_141
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fee0513556442b0800000000000000
+      internalID: -5601240629032063110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_142
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 163
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352e17b740394ed0800000000000000
+      internalID: -2429357439416654537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_143
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 163
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343a3ed73d27e2ab0800000000000000
+      internalID: -5030957481050528957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_144
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a3b06c83b968d30800000000000000
+      internalID: 4433401551335930419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_145
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a227755e998ad3a0800000000000000
+      internalID: -6639843387472665948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_146
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07aaeae5b39ee0f50800000000000000
+      internalID: 6849668524477950576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_147
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4652187f9e2911b90800000000000000
+      internalID: -7272870389649169052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_148
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be02ded9c7312c00800000000000000
+      internalID: 874041142852849334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_149
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 168
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a21e147e9c861b80800000000000000
+      internalID: -8424391440769084767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_150
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba19c7950096b4650800000000000000
+      internalID: 6218179160737354155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_151
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e7ca40bf906c10800000000000000
+      internalID: 2044809810343880583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_152
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0183097d5a158350800000000000000
+      internalID: 6018245465815089422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_153
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 168
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a5f9a749dbdb130800000000000000
+      internalID: 3584229323866856037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_154
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 168
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf43009efafa7b60800000000000000
+      internalID: 7744778480461762493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_155
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6e890b97eff10c0800000000000000
+      internalID: -4602680495542049041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_156
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cfea2ecafc7bb80800000000000000
+      internalID: -8379000240255075182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BudgetingChapter1_157
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 168
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7687d132fc50bb250800000000000000
+      internalID: 5961364918960486503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BudgetingChapter1_0: 3206431949159417316
+      BudgetingChapter1_1: -462664278127095152
+      BudgetingChapter1_10: -8272105573708321344
+      BudgetingChapter1_100: -2033633329334916024
+      BudgetingChapter1_101: -1923373177039257547
+      BudgetingChapter1_102: -2446286225441711144
+      BudgetingChapter1_103: -5129411742486565305
+      BudgetingChapter1_104: 8202810426069866698
+      BudgetingChapter1_105: -4320021152174046767
+      BudgetingChapter1_106: 8619674457316716916
+      BudgetingChapter1_107: -2446846596617812426
+      BudgetingChapter1_108: 1011188443116065903
+      BudgetingChapter1_109: 9182167907940181425
+      BudgetingChapter1_11: -1307870435728503273
+      BudgetingChapter1_110: -7228963357544427669
+      BudgetingChapter1_111: 3222513341261096865
+      BudgetingChapter1_112: -8643256516253281675
+      BudgetingChapter1_113: 265842342714571050
+      BudgetingChapter1_114: -2993010143975454675
+      BudgetingChapter1_115: 1449796751604087911
+      BudgetingChapter1_116: -6626542552238798814
+      BudgetingChapter1_117: -5127507859865081753
+      BudgetingChapter1_118: 6468735990844594403
+      BudgetingChapter1_119: -8822698733668881068
+      BudgetingChapter1_12: 446473204546319378
+      BudgetingChapter1_120: 4817786708534199087
+      BudgetingChapter1_121: 1661927166484983989
+      BudgetingChapter1_122: 5537512880589033681
+      BudgetingChapter1_123: 5407971755417930266
+      BudgetingChapter1_124: 55142681760322200
+      BudgetingChapter1_125: -1695547676103806953
+      BudgetingChapter1_126: -4982621432945341602
+      BudgetingChapter1_127: 6240623392200936203
+      BudgetingChapter1_128: 7225274980230351570
+      BudgetingChapter1_129: 7544881997174080937
+      BudgetingChapter1_13: -5189113932729825620
+      BudgetingChapter1_130: 1287505864448371501
+      BudgetingChapter1_131: -7046258241336874789
+      BudgetingChapter1_132: 4285772004023302611
+      BudgetingChapter1_133: -3368354123830307494
+      BudgetingChapter1_134: 4126983993515532762
+      BudgetingChapter1_135: 2515702902668736931
+      BudgetingChapter1_136: -8812333550920710225
+      BudgetingChapter1_137: -2954298485159269849
+      BudgetingChapter1_138: 4490821557591154737
+      BudgetingChapter1_139: -4161268417788193776
+      BudgetingChapter1_14: 4309158733857206012
+      BudgetingChapter1_140: 6654874563480102576
+      BudgetingChapter1_141: -5601240629032063110
+      BudgetingChapter1_142: -2429357439416654537
+      BudgetingChapter1_143: -5030957481050528957
+      BudgetingChapter1_144: 4433401551335930419
+      BudgetingChapter1_145: -6639843387472665948
+      BudgetingChapter1_146: 6849668524477950576
+      BudgetingChapter1_147: -7272870389649169052
+      BudgetingChapter1_148: 874041142852849334
+      BudgetingChapter1_149: -8424391440769084767
+      BudgetingChapter1_15: -3569058094821673028
+      BudgetingChapter1_150: 6218179160737354155
+      BudgetingChapter1_151: 2044809810343880583
+      BudgetingChapter1_152: 6018245465815089422
+      BudgetingChapter1_153: 3584229323866856037
+      BudgetingChapter1_154: 7744778480461762493
+      BudgetingChapter1_155: -4602680495542049041
+      BudgetingChapter1_156: -8379000240255075182
+      BudgetingChapter1_157: 5961364918960486503
+      BudgetingChapter1_16: -8242257346255493252
+      BudgetingChapter1_17: -7854491193194902928
+      BudgetingChapter1_18: -5026468115701428801
+      BudgetingChapter1_19: -1741191935344652698
+      BudgetingChapter1_2: 684158580189379228
+      BudgetingChapter1_20: 1358501388993924139
+      BudgetingChapter1_21: -9079362384173816579
+      BudgetingChapter1_22: 4452945855433256521
+      BudgetingChapter1_23: -3998531876786225128
+      BudgetingChapter1_24: -2429908823822776503
+      BudgetingChapter1_25: -4737542043401790809
+      BudgetingChapter1_26: -3474683272783277804
+      BudgetingChapter1_27: -2110700730264704254
+      BudgetingChapter1_28: -3601920325565251289
+      BudgetingChapter1_29: -5890394839508199018
+      BudgetingChapter1_3: 6871678169860384146
+      BudgetingChapter1_30: -4806164589636090659
+      BudgetingChapter1_31: 4203996973055289505
+      BudgetingChapter1_32: -3920365784099949702
+      BudgetingChapter1_33: 6206340886481128290
+      BudgetingChapter1_34: 4938404092944722332
+      BudgetingChapter1_35: -1421512075482980133
+      BudgetingChapter1_36: -2729546938612599217
+      BudgetingChapter1_37: 4420690023334143287
+      BudgetingChapter1_38: -6449573483224133157
+      BudgetingChapter1_39: 5408783104263644543
+      BudgetingChapter1_4: 2165250072504682292
+      BudgetingChapter1_40: -5902544803795085347
+      BudgetingChapter1_41: -699958619851313665
+      BudgetingChapter1_42: -6312844572092481441
+      BudgetingChapter1_43: -1087500845714938942
+      BudgetingChapter1_44: 4216763549244348541
+      BudgetingChapter1_45: -3825267284234985591
+      BudgetingChapter1_46: 8056783903247855355
+      BudgetingChapter1_47: -1127532367298520746
+      BudgetingChapter1_48: 7094464516291949672
+      BudgetingChapter1_49: -2291671225528612251
+      BudgetingChapter1_5: 5643300429617878433
+      BudgetingChapter1_50: -7660512912293204696
+      BudgetingChapter1_51: -1507260130676032145
+      BudgetingChapter1_52: -5116234897057706848
+      BudgetingChapter1_53: -4341409593617166377
+      BudgetingChapter1_54: 3590134551549961203
+      BudgetingChapter1_55: -8711380114899698681
+      BudgetingChapter1_56: 5788296624016059453
+      BudgetingChapter1_57: -229047102314547528
+      BudgetingChapter1_58: -8934192255295700770
+      BudgetingChapter1_59: 8831746706691647455
+      BudgetingChapter1_6: 1454819039631021945
+      BudgetingChapter1_60: -6594668640788653293
+      BudgetingChapter1_61: -4759588366647894449
+      BudgetingChapter1_62: -5851119143630020137
+      BudgetingChapter1_63: 8569578515607743948
+      BudgetingChapter1_64: -7268616876988253379
+      BudgetingChapter1_65: 7292577685406401779
+      BudgetingChapter1_66: -8894926194288402914
+      BudgetingChapter1_67: 709421450908206503
+      BudgetingChapter1_68: 6805380774535954990
+      BudgetingChapter1_69: -469043433067734801
+      BudgetingChapter1_7: 5624430604999205859
+      BudgetingChapter1_70: -639956712402887239
+      BudgetingChapter1_71: 3147026749032208381
+      BudgetingChapter1_72: -2065252509258396540
+      BudgetingChapter1_73: -3740001003351294902
+      BudgetingChapter1_74: 2348079618165526206
+      BudgetingChapter1_75: 6889343281338494272
+      BudgetingChapter1_76: -4825652982827579199
+      BudgetingChapter1_77: 1629395222653779959
+      BudgetingChapter1_78: -2119468333391098343
+      BudgetingChapter1_79: 8011836458321308332
+      BudgetingChapter1_8: 9145569048736069513
+      BudgetingChapter1_80: 4607435354549898497
+      BudgetingChapter1_81: -5025717571945456318
+      BudgetingChapter1_82: 1352304710830947414
+      BudgetingChapter1_83: -9173024333632414915
+      BudgetingChapter1_84: -2955654665369342392
+      BudgetingChapter1_85: -5680345626075909892
+      BudgetingChapter1_86: 6776026107065257237
+      BudgetingChapter1_87: -4749592290316717604
+      BudgetingChapter1_88: 2451678776927072787
+      BudgetingChapter1_89: -2003465387973040845
+      BudgetingChapter1_9: -583212484498470152
+      BudgetingChapter1_90: -5275653480923450547
+      BudgetingChapter1_91: -6730016012766641786
+      BudgetingChapter1_92: 8947474635457241422
+      BudgetingChapter1_93: -2448025854307542553
+      BudgetingChapter1_94: -6127254560125333601
+      BudgetingChapter1_95: -6931434486978356749
+      BudgetingChapter1_96: -2242036123943189495
+      BudgetingChapter1_97: 976005285758329103
+      BudgetingChapter1_98: 970688721014451468
+      BudgetingChapter1_99: 2996226321747471074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
